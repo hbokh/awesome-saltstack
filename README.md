@@ -16,6 +16,7 @@
     - [Blogposts and opinions](#blogposts-and-opinions)
     - [Discussions](#discussions)
     - [Community](#community)
+    - [Cheat sheets](cheat-sheets)
     - [Uncategorized](#uncategorized)
     
 ## Official resources
@@ -63,6 +64,11 @@
 * [Salt IRC chat](http://webchat.freenode.net/?channels=salt&uio=Mj10cnVlJjk9dHJ1ZSYxMD10cnVl83) - Salt on Freenode.
 * [Mailing list](https://groups.google.com/forum/#!forum/salt-users) - on Google Groups.
 * [SaltStack Meetups](https://www.meetup.com/pro/saltstack/) - Meetup groups.
+
+## Cheat sheets
+
+* [SaltStack Cheat Sheet](http://www.xenuser.org/saltstack-cheat-sheet/) - by Valentin Höbel.
+* [In SaltStack GitHub Wiki](https://github.com/saltstack/salt/wiki/Cheat-Sheet)
 
 ## Uncategorized
 
