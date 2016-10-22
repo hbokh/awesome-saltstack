@@ -15,16 +15,16 @@
     - [Videos](#videos)
     - [Blogposts and opinions](#blogposts-and-opinions)
     - [Discussions](#discussions)
-    - [User groups](#user-groups)
+    - [Community](#community)
     - [Uncategorized](#uncategorized)
     
-
 ## Official resources
 
-* [SaltStack site](https://saltstack.com/) - installation instruction, official manuals and docs.
-* [GitHub repo](https://github.com/saltstack/salt) - source code, issues discussion and collaboration.
+* [SaltStack site](https://saltstack.com/) - company website.
+* [GitHub repo](https://github.com/saltstack/salt) - Salt's source code, issues discussion and collaboration.
 * [SaltStack Documentation](https://docs.saltstack.com/en/latest/) - official documentation.
-* [Twitter](https://twitter.com/saltstack) - official Twitter account.
+* [Training and certification](https://saltstack.com/training/) - official training.
+* [Twitter feed](https://twitter.com/saltstack) - official Twitter account.
 
 ## Tutorials
 
@@ -36,6 +36,7 @@
 ## Books
 
 * [O'Reilly - Salt Essentials](http://shop.oreilly.com/product/0636920033240.do) - by Craig Sebenik, Thomas Hatch.
+* [Leanpub - Saltstack For DevOps](https://leanpub.com/saltstackfordevops) - by Aymen El Amri.
 * [Packt - Learning SaltStack, 2nd ed.](https://www.packtpub.com/networking-and-servers/learning-saltstack-second-edition) - by Colton Myers.
 * [Packt - Mastering SaltStack, 2nd ed.](https://www.packtpub.com/networking-and-servers/mastering-saltstack-second-edition) - by Joseph Hall.
 * [Packt - Extending SaltStack](https://www.packtpub.com/networking-and-servers/extending-saltstack) - by Joseph Hall.
@@ -57,12 +58,11 @@
 
 * [Reddit: Vagrat, SaltStack, Ansible, Docker, Chef, Puppet, Packer.. Something](https://www.reddit.com/r/sysadmin/comments/2fmkvq/vagrat_saltstack_ansible_docker_chef_puppet/) - started Sept. 2014 in `/r/sysadmin`.
 
-## User groups
+## Community
 
-* [Atlanta SaltStack Meetup](https://www.meetup.com/Atlanta-SaltStack-Meetup/) - Atlanta, GA.
-* [SaltStack Las Vegas meetup](https://www.meetup.com/SaltStack-Las-Vegas-meetup/) - Las Vegas, NV.
-* [Austin Saltstack User Group](https://www.meetup.com/Austin-Saltstack-User-Group/) - Austin, TX.
-* [SaltStack Los Angeles Meetup](https://www.meetup.com/SaltStack-Los-Angeles-Meetup/) - Los Angeles, CA.
+* [Salt IRC chat](http://webchat.freenode.net/?channels=salt&uio=Mj10cnVlJjk9dHJ1ZSYxMD10cnVl83) - Salt on Freenode.
+* [Mailing list](https://groups.google.com/forum/#!forum/salt-users) - on Google Groups.
+* [SaltStack Meetups](https://www.meetup.com/pro/saltstack/) - Meetup groups.
 
 ## Uncategorized
 
