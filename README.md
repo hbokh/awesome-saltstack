@@ -6,16 +6,25 @@
 
 ---
 
+## Table of contents
+
+- [Awesome SaltStack](#awesome-saltstack)
+    - [Official resources](#official-resources)
+    - [Tutorials](#tutorials)
+    - [Books](#books)
+    - [Videos](#videos)
+    - [Blogposts and opinions](#blogposts-and-opinions)
+    - [Discussions](#discussions)
+    - [User groups](#user-groups)
+    - [Uncategorized](#uncategorized)
+    
+
 ## Official resources
 
 * [SaltStack site](https://saltstack.com/) - installation instruction, official manuals and docs.
 * [GitHub repo](https://github.com/saltstack/salt) - source code, issues discussion and collaboration.
 * [SaltStack Documentation](https://docs.saltstack.com/en/latest/) - official documentation.
 * [Twitter](https://twitter.com/saltstack) - official Twitter account.
-
-## Wikipedia
-
-* [Salt (software)](https://en.wikipedia.org/wiki/Salt_(software)) - Wikipedia (English).
 
 ## Tutorials
 
@@ -26,18 +35,18 @@
 
 ## Books
 
-* [Salt Essentials](http://shop.oreilly.com/product/0636920033240.do) - by Craig Sebenik, Thomas Hatch.
-* [Learning SaltStack, 2nd ed.](https://www.packtpub.com/networking-and-servers/learning-saltstack-second-edition) - by Colton Myers.
-* [Mastering SaltStack, 2nd ed.](https://www.packtpub.com/networking-and-servers/mastering-saltstack-second-edition) - by Joseph Hall.
-* [Extending SaltStack](https://www.packtpub.com/networking-and-servers/extending-saltstack) - by Joseph Hall.
-* [Salt Cookbook](https://www.packtpub.com/networking-and-servers/salt-cookbook) - by Anirban Saha.
+* [O'Reilly - Salt Essentials](http://shop.oreilly.com/product/0636920033240.do) - by Craig Sebenik, Thomas Hatch.
+* [Packt - Learning SaltStack, 2nd ed.](https://www.packtpub.com/networking-and-servers/learning-saltstack-second-edition) - by Colton Myers.
+* [Packt - Mastering SaltStack, 2nd ed.](https://www.packtpub.com/networking-and-servers/mastering-saltstack-second-edition) - by Joseph Hall.
+* [Packt - Extending SaltStack](https://www.packtpub.com/networking-and-servers/extending-saltstack) - by Joseph Hall.
+* [Packt - Salt Cookbook](https://www.packtpub.com/networking-and-servers/salt-cookbook) - by Anirban Saha.
 
 ## Videos
 
 * [SaltStack](https://www.youtube.com/user/SaltStack) - SaltStack's official YouTube channel.
 * [Automation and Orchestration with Saltstack and Twilio](https://vimeo.com/162183524) - Devops Chicago - March 2, 2016 - Lightning Talks - Nathan Brooks.
 
-## Blogposts / opinions
+## Blogposts and opinions
 
 * [Moving away from Puppet: SaltStack or Ansible?](http://ryandlane.com/blog/2014/08/04/moving-away-from-puppet-saltstack-or-ansible/) - dated Aug. 2014.
 * [One week of Salt: frustrations and reflections](https://stevebennett.me/2014/02/17/one-week-of-salt-frustrations-and-reflections/) - dated Feb. 2014.
@@ -52,10 +61,11 @@
 * [Atlanta SaltStack Meetup](https://www.meetup.com/Atlanta-SaltStack-Meetup/) - Atlanta, GA.
 * [SaltStack Las Vegas meetup](https://www.meetup.com/SaltStack-Las-Vegas-meetup/) - Las Vegas, NV.
 * [Austin Saltstack User Group](https://www.meetup.com/Austin-Saltstack-User-Group/) - Austin, TX.
-* [SaltStack Los Angeles Meetup]([https://www.meetup.com/SaltStack-Los-Angeles-Meetup/) - Los Angeles, CA.
+* [SaltStack Los Angeles Meetup](https://www.meetup.com/SaltStack-Los-Angeles-Meetup/) - Los Angeles, CA.
 
 ## Uncategorized
 
+* [Salt (software)](https://en.wikipedia.org/wiki/Salt_(software)) - Wikipedia (English).
 * [HubbleStack: Security for DevOps](https://hubblestack.io/) - Hubble is a modular, open-source security compliance framework built on top of SaltStack.
 
 ## License
