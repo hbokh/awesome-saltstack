@@ -16,7 +16,7 @@
     - [Blogposts and opinions](#blogposts-and-opinions)
     - [Discussions](#discussions)
     - [Community](#community)
-    - [Cheat sheets](cheat-sheets)
+    - [Cheat sheets](#cheat-sheets)
     - [Uncategorized](#uncategorized)
     
 ## Official resources
