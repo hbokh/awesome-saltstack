@@ -48,6 +48,7 @@
 
 ## Blogposts and opinions
 
+* [Docker with Saltstack](https://opsnotice.xyz/docker-with-saltstack/) - dated Aug. 2016.
 * [Moving away from Puppet: SaltStack or Ansible?](http://ryandlane.com/blog/2014/08/04/moving-away-from-puppet-saltstack-or-ansible/) - dated Aug. 2014.
 * [One week of Salt: frustrations and reflections](https://stevebennett.me/2014/02/17/one-week-of-salt-frustrations-and-reflections/) - dated Feb. 2014.
 * [Getting started with SaltStack by example: Automatically Installing nginx](http://bencane.com/2013/09/03/getting-started-with-saltstack-by-example-automatically-installing-nginx/) - dated Sept. 2013.
