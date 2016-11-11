@@ -16,9 +16,10 @@
     - [Blogposts and opinions](#blogposts-and-opinions)
     - [Discussions](#discussions)
     - [Community](#community)
+    - [Formulas](#formulas)
     - [Cheat sheets](#cheat-sheets)
     - [Uncategorized](#uncategorized)
-    
+
 ## Official resources
 
 * [SaltStack site](https://saltstack.com/) - company website.
@@ -31,6 +32,7 @@
 
 * [Salt in 10 minutes](https://docs.saltstack.com/en/latest/topics/tutorials/walkthrough.html) - official  walkthrough.
 * [Managing Linux server configs with the SaltStack](https://techarena51.com/index.php/getting-started-with-saltstack/)
+* [A dive into saltstack](https://opencredo.com/a-dive-into-salt-stack/)
 * [How To Install Salt on Ubuntu 12.04](https://www.digitalocean.com/community/tutorials/how-to-install-salt-on-ubuntu-12-04) - part 1 of 2 in the series _An Introduction to Salt_.
 * [How To Create Your First Salt Formula](https://www.digitalocean.com/community/tutorials/how-to-create-your-first-salt-formula) - part 2 in the series _An Introduction to Salt_.
 
@@ -76,6 +78,11 @@
 * [Mailing list](https://groups.google.com/forum/#!forum/salt-users) - on Google Groups.
 * [SaltStack Meetups](https://www.meetup.com/pro/saltstack/) - Meetup groups.
 
+
+## Formulas
+* [SaltStack Formulas](https://github.com/saltstack-formulas/) - A central collection of formula repositories for SaltStack.
+* [Writing saltstack formulas](http://ryepup.unwashedmeme.com/blog/2015/03/16/writing-saltstack-formulas/)
+
 ## Cheat sheets
 
 * [SaltStack Cheat Sheet](http://www.xenuser.org/saltstack-cheat-sheet/) - by Valentin Höbel.
@@ -83,7 +90,6 @@
 
 ## Uncategorized
 
-* [SaltStack Formulas](https://github.com/saltstack-formulas/) - A central collection of formula repositories for SaltStack.
 * [Salt (software)](https://en.wikipedia.org/wiki/Salt_(software)) - Wikipedia (English).
 * [HubbleStack: Security for DevOps](https://hubblestack.io/) - Hubble is a modular, open-source security compliance framework built on top of SaltStack.
 
