@@ -86,7 +86,7 @@
 ## Cheat sheets
 
 * [SaltStack Cheat Sheet](http://www.xenuser.org/saltstack-cheat-sheet/) - By Valentin Höbel.
-* [SaltStack Wiki](https://github.com/saltstack/salt/wiki/Cheat-Sheet) - Cheat sheet in the SaltStakc GitHub Wiki.
+* [SaltStack Wiki](https://github.com/saltstack/salt/wiki/Cheat-Sheet) - Cheat sheet in the SaltStack GitHub Wiki.
 
 ## Uncategorized
 
