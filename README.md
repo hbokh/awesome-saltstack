@@ -4,7 +4,7 @@
 
 ---
 
-## Table of contents
+## Contents
 
 - [Awesome SaltStack](#awesome-saltstack)
     - [Official resources](#official-resources)
@@ -22,28 +22,28 @@
 
 ## Official resources
 
-* [SaltStack site](https://saltstack.com/) - company website.
+* [SaltStack site](https://saltstack.com/) - Company website.
 * [GitHub repo](https://github.com/saltstack/salt) - Salt's source code, issues discussion and collaboration.
-* [SaltStack Documentation](https://docs.saltstack.com/en/latest/) - official documentation.
-* [Training and certification](https://saltstack.com/training/) - official training.
-* [Twitter feed](https://twitter.com/saltstack) - official Twitter account.
+* [SaltStack Documentation](https://docs.saltstack.com/en/latest/) - Official documentation.
+* [Training and certification](https://saltstack.com/training/) - Official training.
+* [Twitter feed](https://twitter.com/saltstack) - Official Twitter account.
 
 ## Tutorials
 
-* [Salt in 10 minutes](https://docs.saltstack.com/en/latest/topics/tutorials/walkthrough.html) - official  walkthrough.
-* [Managing Linux server configs with the SaltStack](https://techarena51.com/index.php/getting-started-with-saltstack/)
-* [A dive into saltstack](https://opencredo.com/a-dive-into-salt-stack/)
-* [How To Install Salt on Ubuntu 12.04](https://www.digitalocean.com/community/tutorials/how-to-install-salt-on-ubuntu-12-04) - part 1 of 2 in the series _An Introduction to Salt_.
-* [How To Create Your First Salt Formula](https://www.digitalocean.com/community/tutorials/how-to-create-your-first-salt-formula) - part 2 in the series _An Introduction to Salt_.
+* [Salt in 10 minutes](https://docs.saltstack.com/en/latest/topics/tutorials/walkthrough.html) - Official  walkthrough.
+* [Managing Linux server configs with the SaltStack](https://techarena51.com/index.php/getting-started-with-saltstack/) - Managing Linux server configs with the SaltStack.
+* [A dive into saltstack](https://opencredo.com/a-dive-into-salt-stack/) - SaltStack uncovered - Configuration management has been a big leap forward for System Engineers.
+* [How To Install Salt on Ubuntu 12.04](https://www.digitalocean.com/community/tutorials/how-to-install-salt-on-ubuntu-12-04) - Part 1 of 2 in the series _An Introduction to Salt_.
+* [How To Create Your First Salt Formula](https://www.digitalocean.com/community/tutorials/how-to-create-your-first-salt-formula) - Part 2 in the series _An Introduction to Salt_.
 
 ## Books
 
-* [O'Reilly - Salt Essentials](http://shop.oreilly.com/product/0636920033240.do) - by Craig Sebenik, Thomas Hatch.
-* [Leanpub - Saltstack For DevOps](https://leanpub.com/saltstackfordevops) - by Aymen El Amri.
-* [Packt - Learning SaltStack, 2nd ed.](https://www.packtpub.com/networking-and-servers/learning-saltstack-second-edition) - by Colton Myers.
-* [Packt - Mastering SaltStack, 2nd ed.](https://www.packtpub.com/networking-and-servers/mastering-saltstack-second-edition) - by Joseph Hall.
-* [Packt - Extending SaltStack](https://www.packtpub.com/networking-and-servers/extending-saltstack) - by Joseph Hall.
-* [Packt - Salt Cookbook](https://www.packtpub.com/networking-and-servers/salt-cookbook) - by Anirban Saha.
+* [O'Reilly - Salt Essentials](http://shop.oreilly.com/product/0636920033240.do) by Craig Sebenik, Thomas Hatch.
+* [Leanpub - Saltstack For DevOps](https://leanpub.com/saltstackfordevops) by Aymen El Amri.
+* [Packt - Learning SaltStack, 2nd ed.](https://www.packtpub.com/networking-and-servers/learning-saltstack-second-edition) by Colton Myers.
+* [Packt - Mastering SaltStack, 2nd ed.](https://www.packtpub.com/networking-and-servers/mastering-saltstack-second-edition) by Joseph Hall.
+* [Packt - Extending SaltStack](https://www.packtpub.com/networking-and-servers/extending-saltstack) by Joseph Hall.
+* [Packt - Salt Cookbook](https://www.packtpub.com/networking-and-servers/salt-cookbook) by Anirban Saha.
 
 ## Videos
 
@@ -53,40 +53,40 @@
 ## Tools
 
 * [SaltPad](https://github.com/Lothiraldan/saltpad) - SaltPad is a GUI tool to manage SaltStack deployments + orchestration.
-* [Halite](https://github.com/saltstack/halite) - **DEPRECATED** A client-side web application interface to a running Salt infrastructure.
+* [Halite](https://github.com/saltstack/halite) - A client-side web application interface to a running Salt infrastructure (now deprecated).
 
 ## Presentations
 
-* [Getting Started with SaltStack](https://speakerdeck.com/pycon2014/getting-started-with-saltstack-by-peter-baumgartner) - by Peter Baumgartner.
-* [Saltpad: A saltstack Web GUI](https://speakerdeck.com/lothiraldan/saltpad-a-saltstack-web-gui) - by Boris Feld.
+* [Getting Started with SaltStack](https://speakerdeck.com/pycon2014/getting-started-with-saltstack-by-peter-baumgartner) - By Peter Baumgartner.
+* [Saltpad: A saltstack Web GUI](https://speakerdeck.com/lothiraldan/saltpad-a-saltstack-web-gui) - By Boris Feld.
 
 ## Blogposts and opinions
 
-* [Docker with Saltstack](https://opsnotice.xyz/docker-with-saltstack/) - dated Aug. 2016.
-* [Masterless SaltStack Provisioning to VirtualBox with Vagrant ](http://www.roblayton.com/2014/12/masterless-saltstack-provisioning-to.html) - dated Dec. 2014.
-* [Moving away from Puppet: SaltStack or Ansible?](http://ryandlane.com/blog/2014/08/04/moving-away-from-puppet-saltstack-or-ansible/) - dated Aug. 2014.
-* [One week of Salt: frustrations and reflections](https://stevebennett.me/2014/02/17/one-week-of-salt-frustrations-and-reflections/) - dated Feb. 2014.
-* [Getting started with SaltStack by example: Automatically Installing nginx](http://bencane.com/2013/09/03/getting-started-with-saltstack-by-example-automatically-installing-nginx/) - dated Sept. 2013.
+* [Docker with Saltstack](https://opsnotice.xyz/docker-with-saltstack/) - How-to use Saltstack on a virtual cloud server based on Debian or Ubuntu. 
+* [Masterless SaltStack Provisioning to VirtualBox with Vagrant ](http://www.roblayton.com/2014/12/masterless-saltstack-provisioning-to.html) - Using SaltStack to cover a more automated approach to provisioning servers.
+* [Moving away from Puppet: SaltStack or Ansible?](http://ryandlane.com/blog/2014/08/04/moving-away-from-puppet-saltstack-or-ansible/) -  Salt and Ansible as viable and excellent options for replacing Puppet.
+* [One week of Salt: frustrations and reflections](https://stevebennett.me/2014/02/17/one-week-of-salt-frustrations-and-reflections/) - First hand experiences from a Chef user.
+* [Getting started with SaltStack by example: Automatically Installing nginx](http://bencane.com/2013/09/03/getting-started-with-saltstack-by-example-automatically-installing-nginx/) - A good getting started guide for both Salt master and minions.
 
 ## Discussions
 
-* [Reddit: Vagrat, SaltStack, Ansible, Docker, Chef, Puppet, Packer.. Something](https://www.reddit.com/r/sysadmin/comments/2fmkvq/vagrat_saltstack_ansible_docker_chef_puppet/) - started Sept. 2014 in `/r/sysadmin`.
+* [Reddit: Vagrat, SaltStack, Ansible, Docker, Chef, Puppet, Packer.. Something](https://www.reddit.com/r/sysadmin/comments/2fmkvq/vagrat_saltstack_ansible_docker_chef_puppet/) - Discussion on Reddit, started Sept. 2014 in `/r/sysadmin`.
 
 ## Community
 
-* [Salt IRC chat](http://webchat.freenode.net/?channels=salt&uio=Mj10cnVlJjk9dHJ1ZSYxMD10cnVl83) - Salt on Freenode.
-* [Mailing list](https://groups.google.com/forum/#!forum/salt-users) - on Google Groups.
-* [SaltStack Meetups](https://www.meetup.com/pro/saltstack/) - Meetup groups.
+* [Salt IRC chat](http://webchat.freenode.net/?channels=salt&uio=Mj10cnVlJjk9dHJ1ZSYxMD10cnVl83) - IRC about Salt on Freenode.
+* [Mailing list](https://groups.google.com/forum/#!forum/salt-users) - Salt-users mailinglist on Google Groups.
+* [SaltStack Meetups](https://www.meetup.com/pro/saltstack/) - Worldwide Meetup groups.
 
 
 ## Formulas
 * [SaltStack Formulas](https://github.com/saltstack-formulas/) - A central collection of formula repositories for SaltStack.
-* [Writing saltstack formulas](http://ryepup.unwashedmeme.com/blog/2015/03/16/writing-saltstack-formulas/)
+* [Writing saltstack formulas](http://ryepup.unwashedmeme.com/blog/2015/03/16/writing-saltstack-formulas/) - An overview on writing SaltStack formulas.
 
 ## Cheat sheets
 
-* [SaltStack Cheat Sheet](http://www.xenuser.org/saltstack-cheat-sheet/) - by Valentin Höbel.
-* [In SaltStack GitHub Wiki](https://github.com/saltstack/salt/wiki/Cheat-Sheet)
+* [SaltStack Cheat Sheet](http://www.xenuser.org/saltstack-cheat-sheet/) - By Valentin Höbel.
+* [SaltStack Wiki](https://github.com/saltstack/salt/wiki/Cheat-Sheet) - Cheat sheet in the SaltStakc GitHub Wiki.
 
 ## Uncategorized
 
