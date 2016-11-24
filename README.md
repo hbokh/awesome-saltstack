@@ -1,24 +1,21 @@
 # Awesome SaltStack  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-##### A collaborative curated list of awesome SaltStack resources, tutorials and other salted stuff.
-
----
+A collaborative curated list of awesome SaltStack resources, tutorials and other salted stuff.
 
 ## Contents
 
-- [Awesome SaltStack](#awesome-saltstack)
-    - [Official resources](#official-resources)
-    - [Tutorials](#tutorials)
-    - [Books](#books)
-    - [Videos](#videos)
-    - [Tools](#tools)
-    - [Presentations](#presentations)
-    - [Blogposts and opinions](#blogposts-and-opinions)
-    - [Discussions](#discussions)
-    - [Community](#community)
-    - [Formulas](#formulas)
-    - [Cheat sheets](#cheat-sheets)
-    - [Uncategorized](#uncategorized)
+- [Official resources](#official-resources)
+- [Tutorials](#tutorials)
+- [Books](#books)
+- [Videos](#videos)
+- [Tools](#tools)
+- [Presentations](#presentations)
+- [Blogposts and opinions](#blogposts-and-opinions)
+- [Discussions](#discussions)
+- [Community](#community)
+- [Formulas](#formulas)
+- [Cheat sheets](#cheat-sheets)
+- [Uncategorized](#uncategorized)
 
 ## Official resources
 
@@ -26,7 +23,6 @@
 * [GitHub repo](https://github.com/saltstack/salt) - Salt's source code, issues discussion and collaboration.
 * [SaltStack Documentation](https://docs.saltstack.com/en/latest/) - Official documentation.
 * [Training and certification](https://saltstack.com/training/) - Official training.
-* [Twitter feed](https://twitter.com/saltstack) - Official Twitter account.
 
 ## Tutorials
 
@@ -75,6 +71,7 @@
 ## Community
 
 * [Salt IRC chat](http://webchat.freenode.net/?channels=salt&uio=Mj10cnVlJjk9dHJ1ZSYxMD10cnVl83) - IRC about Salt on Freenode.
+* [Twitter feed](https://twitter.com/saltstack) - Official Twitter account.
 * [Mailing list](https://groups.google.com/forum/#!forum/salt-users) - Salt-users mailinglist on Google Groups.
 * [SaltStack Meetups](https://www.meetup.com/pro/saltstack/) - Worldwide Meetup groups.
 
