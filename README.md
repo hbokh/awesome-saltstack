@@ -1,6 +1,11 @@
 # Awesome SaltStack  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A collaborative curated list of awesome SaltStack resources, tutorials and other salted stuff.
+[<img src="https://yt3.ggpht.com/-u0bhYCAc9tQ/AAAAAAAAAAI/AAAAAAAAAAA/VzeLz4xM-AM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" align="right" width="100">](https://saltstack.com)
+
+> A collaborative curated list of awesome SaltStack resources, tutorials and other salted stuff.
+
+SaltStack is the other configuration management system built with Python.
+
 
 ## Contents
 
@@ -31,6 +36,8 @@ A collaborative curated list of awesome SaltStack resources, tutorials and other
 * [A dive into saltstack](https://opencredo.com/a-dive-into-salt-stack/) - SaltStack uncovered - Configuration management has been a big leap forward for System Engineers.
 * [How To Install Salt on Ubuntu 12.04](https://www.digitalocean.com/community/tutorials/how-to-install-salt-on-ubuntu-12-04) - Part 1 of 2 in the series _An Introduction to Salt_.
 * [How To Create Your First Salt Formula](https://www.digitalocean.com/community/tutorials/how-to-create-your-first-salt-formula) - Part 2 in the series _An Introduction to Salt_.
+* [Getting Started with Salt Stack - the Other Configuration Management System Built with Python
+](https://www.linuxjournal.com/content/getting-started-salt-stack-other-configuration-management-system-built-python) - A Linux Journal "Getting started" from 2013.
 
 ## Books
 
@@ -83,7 +90,7 @@ A collaborative curated list of awesome SaltStack resources, tutorials and other
 ## Cheat sheets
 
 * [SaltStack Cheat Sheet](http://www.xenuser.org/saltstack-cheat-sheet/) - By Valentin Höbel.
-* [SaltStack Wiki](https://github.com/saltstack/salt/wiki/Cheat-Sheet) - Cheat sheet in the SaltStakc GitHub Wiki.
+* [SaltStack Wiki](https://github.com/saltstack/salt/wiki/Cheat-Sheet) - Cheat sheet in the SaltStack GitHub Wiki.
 
 ## Uncategorized
 
@@ -92,6 +99,6 @@ A collaborative curated list of awesome SaltStack resources, tutorials and other
 
 ## License
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://camo.githubusercontent.com/60561947585c982aee67ed3e3b25388184cc0aa3/687474703a2f2f6d6972726f72732e6372656174697665636f6d6d6f6e732e6f72672f70726573736b69742f627574746f6e732f38387833312f7376672f63632d7a65726f2e737667)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Henk](https://hbokh.github.io/) has waived all copyright and related or neighboring rights to this work.
