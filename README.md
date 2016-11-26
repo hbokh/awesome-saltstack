@@ -56,7 +56,6 @@ SaltStack is the other configuration management system built with Python.
 ## Tools
 
 * [SaltPad](https://github.com/Lothiraldan/saltpad) - SaltPad is a GUI tool to manage SaltStack deployments + orchestration.
-* [Halite](https://github.com/saltstack/halite) - A client-side web application interface to a running Salt infrastructure (now deprecated).
 
 ## Presentations
 
