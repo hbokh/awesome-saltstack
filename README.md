@@ -4,8 +4,9 @@
 
 > A collaborative curated list of awesome SaltStack resources, tutorials and other salted stuff.
 
-SaltStack is the other configuration management system built with Python.
-
+SaltStack is the other configuration management system built with Python.  
+It takes a new approach to infrastructure management by developing software that is easy enough to get running in seconds, scalable enough to manage tens of thousands of servers, and fast enough to control and communicate with them in milliseconds.  
+SaltStack software manages system infrastructure and the application stacks that run on it and is used by web-scale application developers, DevOps teams and systems administrators.
 
 ## Contents
 
@@ -49,6 +50,7 @@ SaltStack is the other configuration management system built with Python.
 
 * [O'Reilly - Salt Essentials](http://shop.oreilly.com/product/0636920033240.do) by Craig Sebenik, Thomas Hatch.
 * [Leanpub - Saltstack For DevOps](https://leanpub.com/saltstackfordevops) by Aymen El Amri.
+* [Leanpub - Getting Started with SaltStack](https://leanpub.com/gettingstartedwithsaltstack) by Ben Hosmer.
 * [Packt - Learning SaltStack, 2nd ed.](https://www.packtpub.com/networking-and-servers/learning-saltstack-second-edition) by Colton Myers.
 * [Packt - Mastering SaltStack, 2nd ed.](https://www.packtpub.com/networking-and-servers/mastering-saltstack-second-edition) by Joseph Hall.
 * [Packt - Extending SaltStack](https://www.packtpub.com/networking-and-servers/extending-saltstack) by Joseph Hall.
@@ -66,6 +68,7 @@ SaltStack is the other configuration management system built with Python.
 ## Presentations
 
 * [Getting Started with SaltStack](https://speakerdeck.com/pycon2014/getting-started-with-saltstack-by-peter-baumgartner) - By Peter Baumgartner.
+* [An introduction to infrastructure management with SaltStack](http://www.slideshare.net/SaltStack/an-overvisaltstack-presentation-clean) - By Aurelien Geron.
 * [Saltpad: A saltstack Web GUI](https://speakerdeck.com/lothiraldan/saltpad-a-saltstack-web-gui) - By Boris Feld.
 
 ## Blogposts and opinions
@@ -94,6 +97,7 @@ SaltStack is the other configuration management system built with Python.
 
 ## Cheat sheets
 
+* [Salt Commands cheat sheet](https://sites.google.com/site/bladelogicwiki/salt-stack/guides/salt-commands) - List of common Salt commands (by "Bladelogic").
 * [SaltStack Cheat Sheet](http://www.xenuser.org/saltstack-cheat-sheet/) - By Valentin Höbel.
 * [SaltStack Wiki](https://github.com/saltstack/salt/wiki/Cheat-Sheet) - Cheat sheet in the SaltStack GitHub Wiki.
 
