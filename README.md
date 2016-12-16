@@ -6,9 +6,7 @@
 
 SaltStack is the other configuration management system built with Python.  
 It takes a new approach to infrastructure management by developing software that is easy enough to get running in seconds, scalable enough to manage tens of thousands of servers, and fast enough to control and communicate with them in milliseconds.  
-SaltStack delivers a dynamic infrastructure communication bus used for orchestration, remote execution, configuration management and much more.  
-The Salt open source project was launched in 2011 and today is the fastest-growing, most-active configuration management / systems management project in the world.  
-SaltStack is the company responsible for keeping the Salt project healthy and dynamic.
+SaltStack software manages system infrastructure and the application stacks that run on it and is used by web-scale application developers, DevOps teams and systems administrators.
 
 ## Contents
 
@@ -70,6 +68,7 @@ SaltStack is the company responsible for keeping the Salt project healthy and dy
 ## Presentations
 
 * [Getting Started with SaltStack](https://speakerdeck.com/pycon2014/getting-started-with-saltstack-by-peter-baumgartner) - By Peter Baumgartner.
+* [An introduction to infrastructure management with SaltStack](http://www.slideshare.net/SaltStack/an-overvisaltstack-presentation-clean) - By Aurelien Geron.
 * [Saltpad: A saltstack Web GUI](https://speakerdeck.com/lothiraldan/saltpad-a-saltstack-web-gui) - By Boris Feld.
 
 ## Blogposts and opinions

@@ -1,6 +1,6 @@
 # Contribution guidelines
 
-Please help to make this list better. 
+Please help to make this list better.  
 Your pull requests and suggestions are welcome!
 
 * Start individual issues for each discussion topic with suggestion on changing structure of categories etc.
