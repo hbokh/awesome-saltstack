@@ -70,6 +70,7 @@ SaltStack software manages system infrastructure and the application stacks that
 * [Getting Started with SaltStack](https://speakerdeck.com/pycon2014/getting-started-with-saltstack-by-peter-baumgartner) - By Peter Baumgartner.
 * [An introduction to infrastructure management with SaltStack](http://www.slideshare.net/SaltStack/an-overvisaltstack-presentation-clean) - By Aurelien Geron.
 * [Saltpad: A saltstack Web GUI](https://speakerdeck.com/lothiraldan/saltpad-a-saltstack-web-gui) - By Boris Feld.
+* [Intro to Saltstack](http://www.justincarmony.com/slides/salt-tutorial/) - By Justin Carmony.
 
 ## Blogposts and opinions
 
