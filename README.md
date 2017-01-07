@@ -69,7 +69,6 @@ SaltStack software manages system infrastructure and the application stacks that
 ## Tools
 
 * [SaltPad](https://github.com/Lothiraldan/saltpad) - SaltPad is a GUI tool to manage SaltStack deployments + orchestration.
-* [HubbleStack](https://hubblestack.io/) - Hubble is a modular, open-source security compliance framework built on top of SaltStack.
 
 ## Presentations
 
