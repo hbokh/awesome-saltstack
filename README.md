@@ -37,7 +37,7 @@ SaltStack software manages system infrastructure and the application stacks that
 * [A dive into saltstack](https://opencredo.com/a-dive-into-salt-stack/) - SaltStack uncovered - Configuration management has been a big leap forward for System Engineers.
 * [How To Install Salt on Ubuntu 12.04](https://www.digitalocean.com/community/tutorials/how-to-install-salt-on-ubuntu-12-04) - Part 1 of 2 in the series _An Introduction to Salt_.
 * [How To Create Your First Salt Formula](https://www.digitalocean.com/community/tutorials/how-to-create-your-first-salt-formula) - Part 2 in the series _An Introduction to Salt_.
-* [Automated Provisioning of DigitalOcean Cloud Servers with Salt Cloud on Ubuntu 12.04 ](https://www.digitalocean.com/community/tutorials/automated-provisioning-of-digitalocean-cloud-servers-with-salt-cloud-on-ubuntu-12-04) - Walkthrough on automated provisioning of DigitalOcean vloud servers with Salt Cloud on Ubuntu 12.04.
+* [Automated Provisioning of DigitalOcean Cloud Servers with Salt Cloud on Ubuntu 12.04 ](https://www.digitalocean.com/community/tutorials/automated-provisioning-of-digitalocean-cloud-servers-with-salt-cloud-on-ubuntu-12-04) - Walkthrough on automated provisioning of DigitalOcean Cloud Servers with Salt Cloud on Ubuntu 12.04.
 * [How To Install and Configure Salt Master and Minion Servers on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-salt-master-and-minion-servers-on-ubuntu-14-04) - SaltStack installation walkthrough for Ubuntu 14.04.
 * [How To Use Salt Cloud Map Files to Deploy App Servers and an Nginx Reverse Proxy ](https://www.digitalocean.com/community/tutorials/how-to-use-salt-cloud-map-files-to-deploy-app-servers-and-an-nginx-reverse-proxy) - Walkthrough on how to use Salt Cloud Map Files to deploy application servers and an Nginx reverse proxy.
 * [An Introduction to SaltStack Terminology and Concepts](https://www.digitalocean.com/community/tutorials/an-introduction-to-saltstack-terminology-and-concepts) - Part 1 of 6 in the series _Managing Development Environments with SaltStack_.
@@ -64,11 +64,13 @@ SaltStack software manages system infrastructure and the application stacks that
 * [SaltStack](https://www.youtube.com/user/SaltStack) - SaltStack's official YouTube channel.
 * [Managing Your Infrastructure with SaltStack](https://www.youtube.com/watch?v=y-zQUqMHRX4&t=35s) - PyCon 2015 - April 11, 2015 - Colton Myers.
 * [Beyond Configuration Management with SaltStack for Event-Driven Infrastructure](https://www.youtube.com/watch?v=cMCH6EizVVc) - Southern California Linux Expo - January 23, 2016 - David Boucha.
-* [Automation and Orchestration with Saltstack and Twilio](https://vimeo.com/162183524) - Devops Chicago - March 2, 2016 - Lightning Talks - Nathan Brooks.
+* [Automation and Orchestration with Saltstack and Twilio](https://vimeo.com/162183524) - Devops Chicago - March 2, 2016 - Nathan Brooks.
 
 ## Tools
 
 * [SaltPad](https://github.com/Lothiraldan/saltpad) - SaltPad is a GUI tool to manage SaltStack deployments + orchestration.
+* [SaltShaker](https://github.com/yueyongyue/saltshaker) - Another good looking GUI for SaltStack.
+* [SaltGUI](https://github.com/oliverdunk/SaltGUI) - A web interface for managing SaltStack based infrastructure.
 
 ## Presentations
 
