@@ -97,6 +97,7 @@ SaltStack software manages system infrastructure and the application stacks that
 * [Twitter feed](https://twitter.com/saltstack) - Official Twitter account.
 * [Mailing list](https://groups.google.com/forum/#!forum/salt-users) - Salt-users mailinglist on Google Groups.
 * [SaltStack Meetups](https://www.meetup.com/pro/saltstack/) - Worldwide Meetup groups.
+* [SaltConf](http://saltconf.com/) - Annual user conference for SaltStack customers, users, partners, developers and community members.
 
 
 ## Formulas
