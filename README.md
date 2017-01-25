@@ -102,6 +102,7 @@ SaltStack software manages system infrastructure and the application stacks that
 
 ## Formulas
 * [SaltStack Formulas](https://github.com/saltstack-formulas/) - A central collection of formula repositories for SaltStack.
+* [SaltStack Formulas](https://github.com/salt-formulas) - A community developed SaltStack formulas ecosystem.
 * [Writing saltstack formulas](http://ryepup.unwashedmeme.com/blog/2015/03/16/writing-saltstack-formulas/) - An overview on writing SaltStack formulas.
 
 ## Cheat sheets
