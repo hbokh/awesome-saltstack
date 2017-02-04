@@ -46,8 +46,9 @@ SaltStack software manages system infrastructure and the application stacks that
 * [SaltStack Infrastructure: Creating Salt States for Nginx Web Servers](https://www.digitalocean.com/community/tutorials/saltstack-infrastructure-creating-salt-states-for-nginx-web-servers) - Part 4 of 6 in the series _Managing Development Environments with SaltStack_.
 * [SaltStack Infrastructure: Creating Salt States for HAProxy Load Balancers](https://www.digitalocean.com/community/tutorials/saltstack-infrastructure-creating-salt-states-for-haproxy-load-balancers) - Part 5 of 6 in the series _Managing Development Environments with SaltStack_.
 * [SaltStack Infrastructure: Creating Salt States for MySQL Database Servers](https://www.digitalocean.com/community/tutorials/saltstack-infrastructure-creating-salt-states-for-mysql-database-servers) - Part 6 in the series _Managing Development Environments with SaltStack_.
-* [Getting Started with Salt Stack - the Other Configuration Management System Built with Python
-](https://www.linuxjournal.com/content/getting-started-salt-stack-other-configuration-management-system-built-python) - A Linux Journal "Getting started" from 2013.
+* [Getting Started with SaltStack - the Other Configuration Management System Built with Python](https://www.linuxjournal.com/content/getting-started-salt-stack-other-configuration-management-system-built-python) - A Linux Journal "Getting started" from 2013.
+* [Create an army of Salt minions on DigitalOcean](http://www.aaronbell.com/lets-make-salt-minions-on-digitalocean/) - Combine the simplicity of Salt with DigitalOcean's snapshot and image feature.
+* [Vagrant & SaltStack Quickstart Tutorial](http://hittaruki.info/post/vagrant-saltstack-tutorial/) - Getting started with SaltStack and Vagrant.
 
 ## Books
 
@@ -74,18 +75,21 @@ SaltStack software manages system infrastructure and the application stacks that
 
 ## Presentations
 
-* [Getting Started with SaltStack](https://speakerdeck.com/pycon2014/getting-started-with-saltstack-by-peter-baumgartner) - By Peter Baumgartner.
-* [An introduction to infrastructure management with SaltStack](http://www.slideshare.net/SaltStack/an-overvisaltstack-presentation-clean) - By Aurelien Geron.
-* [Saltpad: A saltstack Web GUI](https://speakerdeck.com/lothiraldan/saltpad-a-saltstack-web-gui) - By Boris Feld.
-* [Intro to Saltstack](http://www.justincarmony.com/slides/salt-tutorial/) - By Justin Carmony.
+* [Getting Started with SaltStack](https://speakerdeck.com/pycon2014/getting-started-with-saltstack-by-peter-baumgartner) - by Peter Baumgartner.
+* [An introduction to infrastructure management with SaltStack](http://www.slideshare.net/SaltStack/an-overvisaltstack-presentation-clean) - by Aurelien Geron.
+* [Saltpad: A saltstack Web GUI](https://speakerdeck.com/lothiraldan/saltpad-a-saltstack-web-gui) - by Boris Feld.
+* [Intro to Saltstack](http://www.justincarmony.com/slides/salt-tutorial/) - by Justin Carmony.
 
 ## Blogposts and opinions
 
-* [Docker with Saltstack](https://opsnotice.xyz/docker-with-saltstack/) - How-to use Saltstack on a virtual cloud server based on Debian or Ubuntu. 
+* [Salt To Finish](http://www.salttofinish.com/) - "the original SaltStack blog".
+* [Docker with Saltstack](https://opsnotice.xyz/docker-with-saltstack/) - How-to use Saltstack on a virtual cloud server based on Debian or Ubuntu.
 * [Masterless SaltStack Provisioning to VirtualBox with Vagrant ](http://www.roblayton.com/2014/12/masterless-saltstack-provisioning-to.html) - Using SaltStack to cover a more automated approach to provisioning servers.
 * [Moving away from Puppet: SaltStack or Ansible?](http://ryandlane.com/blog/2014/08/04/moving-away-from-puppet-saltstack-or-ansible/) -  Salt and Ansible as viable and excellent options for replacing Puppet.
 * [One week of Salt: frustrations and reflections](https://stevebennett.me/2014/02/17/one-week-of-salt-frustrations-and-reflections/) - First hand experiences from a Chef user.
 * [Getting started with SaltStack by example: Automatically Installing nginx](http://bencane.com/2013/09/03/getting-started-with-saltstack-by-example-automatically-installing-nginx/) - A good getting started guide for both Salt master and minions.
+* [SaltStack: Manage entries in unmanaged files with File Blockreplace](https://makina-corpus.com/blog/metier/2014/saltstack-manage-entries-in-unmanaged-files-with-file-blockreplace) - how to use the saltstack's core "file.blockreplace".
+* [Docker Swarm 1.12 Cluster Orchestration with SaltStack](http://btmiller.com/2016/11/27/docker-swarm-1.12-cluster-orchestration-with-saltstack.html) - Let’s see how we can automate the spin-up of a cluster using SaltStack.
 
 ## Discussions
 
@@ -102,13 +106,14 @@ SaltStack software manages system infrastructure and the application stacks that
 
 ## Formulas
 * [SaltStack Formulas](https://github.com/saltstack-formulas/) - A central collection of formula repositories for SaltStack.
-* [SaltStack Formulas](https://github.com/salt-formulas) - A community developed SaltStack formulas ecosystem.
-* [Writing saltstack formulas](http://ryepup.unwashedmeme.com/blog/2015/03/16/writing-saltstack-formulas/) - An overview on writing SaltStack formulas.
+* [Salt Formulas](https://github.com/salt-formulas) - A community developed SaltStack formulas ecosystem.
+* [Writing SaltStack formulas](http://ryepup.unwashedmeme.com/blog/2015/03/16/writing-saltstack-formulas/) - An overview on writing SaltStack formulas.
 
 ## Cheat sheets
 
+* [SaltStack Cheat Sheet Plus](https://github.com/fmdlc/saltstack-cheatsheet) - by Facu de la Cruz.
 * [Salt Commands cheat sheet](https://sites.google.com/site/bladelogicwiki/salt-stack/guides/salt-commands) - List of common Salt commands (by "Bladelogic").
-* [SaltStack Cheat Sheet](http://www.xenuser.org/saltstack-cheat-sheet/) - By Valentin Höbel.
+* [SaltStack Cheat Sheet](http://www.xenuser.org/saltstack-cheat-sheet/) - by Valentin Höbel.
 * [SaltStack Wiki](https://github.com/saltstack/salt/wiki/Cheat-Sheet) - Cheat sheet in the SaltStack GitHub Wiki.
 
 ## Uncategorized
