@@ -32,7 +32,8 @@ SaltStack software manages system infrastructure and the application stacks that
 
 ## Tutorials
 
-* [Salt in 10 minutes](https://docs.saltstack.com/en/latest/topics/tutorials/walkthrough.html) - Official  walkthrough.
+* [Salt in 10 minutes](https://docs.saltstack.com/en/latest/topics/tutorials/walkthrough.html) - Official walkthrough.
+* [About SaltStack](http://www.yet.org/2016/09/salt/) - Extensive blogpost with lots of in-depth information.
 * [Managing Linux server configs with the SaltStack](https://techarena51.com/index.php/getting-started-with-saltstack/) - Managing Linux server configs with the SaltStack.
 * [A dive into saltstack](https://opencredo.com/a-dive-into-salt-stack/) - SaltStack uncovered - Configuration management has been a big leap forward for System Engineers.
 * [How To Install Salt on Ubuntu 12.04](https://www.digitalocean.com/community/tutorials/how-to-install-salt-on-ubuntu-12-04) - Part 1 of 2 in the series _An Introduction to Salt_.
@@ -81,7 +82,7 @@ SaltStack software manages system infrastructure and the application stacks that
 
 ## Blogposts and opinions
 
-* [Docker with Saltstack](https://opsnotice.xyz/docker-with-saltstack/) - How-to use Saltstack on a virtual cloud server based on Debian or Ubuntu. 
+* [Docker with Saltstack](https://opsnotice.xyz/docker-with-saltstack/) - How-to use Saltstack on a virtual cloud server based on Debian or Ubuntu.
 * [Masterless SaltStack Provisioning to VirtualBox with Vagrant ](http://www.roblayton.com/2014/12/masterless-saltstack-provisioning-to.html) - Using SaltStack to cover a more automated approach to provisioning servers.
 * [Moving away from Puppet: SaltStack or Ansible?](http://ryandlane.com/blog/2014/08/04/moving-away-from-puppet-saltstack-or-ansible/) -  Salt and Ansible as viable and excellent options for replacing Puppet.
 * [One week of Salt: frustrations and reflections](https://stevebennett.me/2014/02/17/one-week-of-salt-frustrations-and-reflections/) - First hand experiences from a Chef user.
@@ -101,7 +102,8 @@ SaltStack software manages system infrastructure and the application stacks that
 
 ## Formulas
 * [SaltStack Formulas](https://github.com/saltstack-formulas/) - A central collection of formula repositories for SaltStack.
-* [Writing saltstack formulas](http://ryepup.unwashedmeme.com/blog/2015/03/16/writing-saltstack-formulas/) - An overview on writing SaltStack formulas.
+* [Writing SaltStack formulas](http://ryepup.unwashedmeme.com/blog/2015/03/16/writing-saltstack-formulas/) - An overview on writing SaltStack formulas.
+* [Salt Formulas](http://www.yet.org/2016/09/salt-formulas/) - In-depth blogpost about Salt Formulas.
 
 ## Cheat sheets
 
