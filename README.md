@@ -78,6 +78,7 @@ SaltStack software manages system infrastructure and the application stacks that
 * [Managing Your Infrastructure with SaltStack](https://www.youtube.com/watch?v=y-zQUqMHRX4&t=35s) - PyCon 2015 - April 11, 2015 - Colton Myers.
 * [Beyond Configuration Management with SaltStack for Event-Driven Infrastructure](https://www.youtube.com/watch?v=cMCH6EizVVc) - Southern California Linux Expo - January 23, 2016 - David Boucha.
 * [Automation and Orchestration with SaltStack and Twilio](https://vimeo.com/162183524) - Devops Chicago - March 2, 2016 - Nathan Brooks.
+* [Herding Cattle with SaltStack and Targeting via CMDB](https://www.youtube.com/watch?v=F3K706JJ2EI) - SaltConf16 - April 21, 2016 - Onno Ebbinge.
 
 ## Tools
 
