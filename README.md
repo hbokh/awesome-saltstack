@@ -12,6 +12,7 @@ SaltStack software manages system infrastructure and the application stacks that
 
 - [Official resources](#official-resources)
 - [Tutorials](#tutorials)
+- [Code](#code)
 - [Books](#books)
 - [Videos](#videos)
 - [Tools](#tools)
@@ -52,8 +53,15 @@ SaltStack software manages system infrastructure and the application stacks that
 * [Vagrant & SaltStack Quickstart Tutorial](http://hittaruki.info/post/vagrant-saltstack-tutorial/) - Getting started with SaltStack and Vagrant.
 * [Salt-API, A Crash Course](http://www.thereluctanttecchie.com/salt_api_a_crash_course/) - Get a barebones salt-api proof of concept up and running.
 * [SaltStack: Keeping Salt Pillar data encrypted using GPG](http://fabianlee.org/2016/10/18/saltstack-keeping-salt-pillar-data-encrypted-using-gpg/) - On secure encryption/decryption of pillar data.
-* [Getting Started with SaltStack - Part 1](http://blog.infracloud.io/saltstack-tutorial-part-1/) - Part 1 of 2: simple setup and play around on the command line.
-* [Getting Started with SaltStack - Part 2](http://blog.infracloud.io/saltstack-tutorial-part-2/) - Part 2: write a complete module for installing and configure a web server.
+* [Secure Pillar in SaltStack with GPG](https://gijs.io/2017/02/28/secure-pillar-data-in-saltstack-with-gpg/) - Encrypting your pillar data can be done with GPG.
+* [Getting Started with SaltStack - Part 1](http://blog.infracloud.io/saltstack-tutorial-part-1/) -  Simple setup and play around on the command line.
+* [Getting Started with SaltStack - Part 2](http://blog.infracloud.io/saltstack-tutorial-part-2/) - Write a complete module for installing and configure a web server.
+* [SaltStack Examples](https://www.unixmen.com/saltstack-examples/) - Will teach you some of default functions in a quick way.
+
+## Code
+
+* [zulily/alkali](https://github.com/zulily/alkali) - A collections of SaltStack states and pillar data that provide just the basics for provisioning Linux instances that may be built upon.
+* [zulily/buoyant](https://github.com/zulily/buoyant) - Leverages docker to provide an alternative to VM-centric SaltStack development environments.
 
 ## Books
 
@@ -71,6 +79,7 @@ SaltStack software manages system infrastructure and the application stacks that
 * [Managing Your Infrastructure with SaltStack](https://www.youtube.com/watch?v=y-zQUqMHRX4&t=35s) - PyCon 2015 - April 11, 2015 - Colton Myers.
 * [Beyond Configuration Management with SaltStack for Event-Driven Infrastructure](https://www.youtube.com/watch?v=cMCH6EizVVc) - Southern California Linux Expo - January 23, 2016 - David Boucha.
 * [Automation and Orchestration with SaltStack and Twilio](https://vimeo.com/162183524) - Devops Chicago - March 2, 2016 - Nathan Brooks.
+* [Herding Cattle with SaltStack and Targeting via CMDB](https://www.youtube.com/watch?v=F3K706JJ2EI) - SaltConf16 - April 21, 2016 - Onno Ebbinge.
 
 ## Tools
 
