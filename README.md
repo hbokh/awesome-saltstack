@@ -77,6 +77,7 @@ SaltStack software manages system infrastructure and the application stacks that
 * [SaltPad](https://github.com/Lothiraldan/saltpad) - SaltPad is a GUI tool to manage SaltStack deployments + orchestration.
 * [SaltShaker](https://github.com/yueyongyue/saltshaker) - Another good looking GUI for SaltStack.
 * [SaltGUI](https://github.com/oliverdunk/SaltGUI) - A web interface for managing SaltStack based infrastructure.
+* [Pepperboard](https://github.com/webedia-dev/pepperboard) - A simple and modular dashboard toolkit for SaltStack.
 
 ## Presentations
 
