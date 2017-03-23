@@ -31,13 +31,14 @@ SaltStack software manages system infrastructure and the application stacks that
 * [SaltStack site](https://saltstack.com/) - Company website.
 * [GitHub repo](https://github.com/saltstack/salt) - Salt's source code, issues discussion and collaboration.
 * [SaltStack Documentation](https://docs.saltstack.com/en/latest/) - Official documentation.
+* [SaltStack Get Started](https://docs.saltstack.com/en/getstarted/) - :gem: These Get Started tutorials walk you through the basics of getting SaltStack up and running.
 * [Training and certification](https://saltstack.com/training/) - Official training.
 
 ## Tutorials
 
 * [Salt in 10 minutes](https://docs.saltstack.com/en/latest/topics/tutorials/walkthrough.html) - Official walkthrough.
-* [ Salt - Beginners Tutorial](https://blog.talpor.com/2014/07/saltstack-beginners-tutorial/) - :gem: One of the best tutorials to get you started.
-* [About SaltStack](http://www.yet.org/2016/09/salt/) - Extensive blogpost with lots of in-depth information.
+* [Salt - Beginners Tutorial](https://blog.talpor.com/2014/07/saltstack-beginners-tutorial/) - :gem: One of the best tutorials to get you started.
+* [About SaltStack](http://www.yet.org/2016/09/salt/) - :gem: Extensive blogpost with lots of in-depth information.
 * [Managing Linux server configs with the SaltStack](https://techarena51.com/index.php/getting-started-with-saltstack/) - Managing Linux server configs with the SaltStack.
 * [A dive into SaltStack](https://opencredo.com/a-dive-into-salt-stack/) - SaltStack uncovered - Configuration management has been a big leap forward for System Engineers.
 * [How To Install Salt on Ubuntu 12.04](https://www.digitalocean.com/community/tutorials/how-to-install-salt-on-ubuntu-12-04) - Part 1 of 2 in the series _An Introduction to Salt_.
@@ -55,12 +56,11 @@ SaltStack software manages system infrastructure and the application stacks that
 * [Create an army of Salt minions on DigitalOcean](http://www.aaronbell.com/lets-make-salt-minions-on-digitalocean/) - Combine the simplicity of Salt with DigitalOcean's snapshot and image feature.
 * [Vagrant & SaltStack Quickstart Tutorial](http://hittaruki.info/post/vagrant-saltstack-tutorial/) - Getting started with SaltStack and Vagrant.
 * [Salt-API, A Crash Course](http://www.thereluctanttecchie.com/salt_api_a_crash_course/) - Get a barebones salt-api proof of concept up and running.
-* [SaltStack: Keeping Salt Pillar data encrypted using GPG](http://fabianlee.org/2016/10/18/saltstack-keeping-salt-pillar-data-encrypted-using-gpg/) - On secure encryption/decryption of pillar data.
-* [Secure Pillar in SaltStack with GPG](https://gijs.io/2017/02/28/secure-pillar-data-in-saltstack-with-gpg/) - Encrypting your pillar data can be done with GPG.
 * [Getting Started with SaltStack - Part 1](http://blog.infracloud.io/saltstack-tutorial-part-1/) -  Simple setup and play around on the command line.
 * [Getting Started with SaltStack - Part 2](http://blog.infracloud.io/saltstack-tutorial-part-2/) - Write a complete module for installing and configure a web server.
 * [SaltStack Examples](https://www.unixmen.com/saltstack-examples/) - Will teach you some of default functions in a quick way.
 * [Masterless Saltstack](https://honza.ca/2013/12/masterless-saltstack) - A simple guide on how to use SaltStack in masterless mode.
+* [Manage the cloud with Terraform, Salt, Consul and DigitalOcean](https://ahus1.github.io/saltconsul-examples/tutorial.html) - :gem: a step by step example for an initial setup in the cloud.
 
 ## Code
 
@@ -110,7 +110,8 @@ SaltStack software manages system infrastructure and the application stacks that
 * [SaltStack: Manage entries in unmanaged files with File Blockreplace](https://makina-corpus.com/blog/metier/2014/saltstack-manage-entries-in-unmanaged-files-with-file-blockreplace) - how to use the SaltStack's core "file.blockreplace".
 * [Docker Swarm 1.12 Cluster Orchestration with SaltStack](http://btmiller.com/2016/11/27/docker-swarm-1.12-cluster-orchestration-with-saltstack.html) - Let’s see how we can automate the spin-up of a cluster using SaltStack.
 * [SaltStack - Review and how it fares against Ansible and Puppet](https://www.amon.cx/blog/saltstack-review/) - As seen from the Salt perspective.
-* [Manage the cloud with Terraform, Salt, Consul and DigitalOcean](https://ahus1.github.io/saltconsul-examples/tutorial.html) - :gem: a step by step example for an initial setup in the cloud. 
+* [SaltStack: Keeping Salt Pillar data encrypted using GPG](http://fabianlee.org/2016/10/18/saltstack-keeping-salt-pillar-data-encrypted-using-gpg/) - On secure encryption/decryption of pillar data.
+* [Secure Pillar in SaltStack with GPG](https://gijs.io/2017/02/28/secure-pillar-data-in-saltstack-with-gpg/) - Encrypting your pillar data can be done with GPG.
 
 ## Discussions
 
@@ -129,7 +130,7 @@ SaltStack software manages system infrastructure and the application stacks that
 * [SaltStack Formulas](https://github.com/saltstack-formulas/) - A central collection of formula repositories for SaltStack.
 * [Salt Formulas](https://github.com/salt-formulas) - A community developed SaltStack formulas ecosystem.
 * [Writing SaltStack formulas](http://ryepup.unwashedmeme.com/blog/2015/03/16/writing-saltstack-formulas/) - An overview on writing SaltStack formulas.
-* [Salt Formulas](http://www.yet.org/2016/09/salt-formulas/) - In-depth blogpost about Salt Formulas.
+* [Salt Formulas](http://www.yet.org/2016/09/salt-formulas/) - :gem: In-depth blogpost about Salt Formulas.
 
 ## Cheat sheets
 
