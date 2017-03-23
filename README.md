@@ -8,6 +8,8 @@ SaltStack is the other configuration management system built with Python.
 It takes a new approach to infrastructure management by developing software that is easy enough to get running in seconds, scalable enough to manage tens of thousands of servers, and fast enough to control and communicate with them in milliseconds.  
 SaltStack software manages system infrastructure and the application stacks that run on it and is used by web-scale application developers, DevOps teams and systems administrators.
 
+:gem: means **really _awesome/useful_**.
+
 ## Contents
 
 - [Official resources](#official-resources)
@@ -34,6 +36,7 @@ SaltStack software manages system infrastructure and the application stacks that
 ## Tutorials
 
 * [Salt in 10 minutes](https://docs.saltstack.com/en/latest/topics/tutorials/walkthrough.html) - Official walkthrough.
+* [ Salt - Beginners Tutorial](https://blog.talpor.com/2014/07/saltstack-beginners-tutorial/) - :gem: One of the best tutorials to get you started.
 * [About SaltStack](http://www.yet.org/2016/09/salt/) - Extensive blogpost with lots of in-depth information.
 * [Managing Linux server configs with the SaltStack](https://techarena51.com/index.php/getting-started-with-saltstack/) - Managing Linux server configs with the SaltStack.
 * [A dive into SaltStack](https://opencredo.com/a-dive-into-salt-stack/) - SaltStack uncovered - Configuration management has been a big leap forward for System Engineers.
@@ -107,6 +110,7 @@ SaltStack software manages system infrastructure and the application stacks that
 * [SaltStack: Manage entries in unmanaged files with File Blockreplace](https://makina-corpus.com/blog/metier/2014/saltstack-manage-entries-in-unmanaged-files-with-file-blockreplace) - how to use the SaltStack's core "file.blockreplace".
 * [Docker Swarm 1.12 Cluster Orchestration with SaltStack](http://btmiller.com/2016/11/27/docker-swarm-1.12-cluster-orchestration-with-saltstack.html) - Let’s see how we can automate the spin-up of a cluster using SaltStack.
 * [SaltStack - Review and how it fares against Ansible and Puppet](https://www.amon.cx/blog/saltstack-review/) - As seen from the Salt perspective.
+* [Manage the cloud with Terraform, Salt, Consul and DigitalOcean](https://ahus1.github.io/saltconsul-examples/tutorial.html) - :gem: a step by step example for an initial setup in the cloud. 
 
 ## Discussions
 
@@ -138,6 +142,7 @@ SaltStack software manages system infrastructure and the application stacks that
 
 * [Salt (software)](https://en.wikipedia.org/wiki/Salt_(software)) - Wikipedia (English).
 * [HubbleStack: Security for DevOps](https://hubblestack.io/) - Hubble is a modular, open-source security compliance framework built on top of SaltStack.
+* [Marc Chen – CEO/Co-Founder Salt Stack, Inc.](http://aarontobler.com/marc-chen-ceoco-founder-salt-stack-inc/) - an interview with SaltStack's CEO and co-founder.
 
 ## License
 
