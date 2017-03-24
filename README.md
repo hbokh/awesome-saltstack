@@ -31,12 +31,12 @@ A :gem: means **really _awesome / useful_**.
 * [SaltStack site](https://saltstack.com/) - Company website.
 * [GitHub repo](https://github.com/saltstack/salt) - Salt's source code, issues discussion and collaboration.
 * [SaltStack Documentation](https://docs.saltstack.com/en/latest/) - Official documentation.
+* [Salt in 10 minutes](https://docs.saltstack.com/en/latest/topics/tutorials/walkthrough.html) - Official walkthrough.
 * [SaltStack Get Started](https://docs.saltstack.com/en/getstarted/) - These tutorials walk you through the basics of getting SaltStack up and running. :gem:
 * [Training and certification](https://saltstack.com/training/) - Official training.
 
 ## Tutorials
 
-* [Salt in 10 minutes](https://docs.saltstack.com/en/latest/topics/tutorials/walkthrough.html) - Official walkthrough.
 * [Salt - Beginners Tutorial](https://blog.talpor.com/2014/07/saltstack-beginners-tutorial/) - One of the best tutorials to get you started. :gem:
 * [About SaltStack](http://www.yet.org/2016/09/salt/) - Extensive blogpost with lots of in-depth information. :gem:
 * [Managing Linux server configs with the SaltStack](https://techarena51.com/index.php/getting-started-with-saltstack/) - Managing Linux server configs with the SaltStack.
@@ -60,7 +60,6 @@ A :gem: means **really _awesome / useful_**.
 * [Getting Started with SaltStack - Part 2](http://blog.infracloud.io/saltstack-tutorial-part-2/) - Write a complete module for installing and configure a web server.
 * [SaltStack Examples](https://www.unixmen.com/saltstack-examples/) - Will teach you some of default functions in a quick way.
 * [Masterless Saltstack](https://honza.ca/2013/12/masterless-saltstack) - A simple guide on how to use SaltStack in masterless mode.
-* [Manage the cloud with Terraform, Salt, Consul and DigitalOcean](https://ahus1.github.io/saltconsul-examples/tutorial.html) - A step by step example for an initial setup in the cloud. :gem:
 
 ## Code
 
@@ -107,7 +106,7 @@ A :gem: means **really _awesome / useful_**.
 * [Moving away from Puppet: SaltStack or Ansible?](http://ryandlane.com/blog/2014/08/04/moving-away-from-puppet-saltstack-or-ansible/) -  Salt and Ansible as viable and excellent options for replacing Puppet.
 * [One week of Salt: frustrations and reflections](https://stevebennett.me/2014/02/17/one-week-of-salt-frustrations-and-reflections/) - First hand experiences from a Chef user.
 * [Getting started with SaltStack by example: Automatically Installing nginx](http://bencane.com/2013/09/03/getting-started-with-saltstack-by-example-automatically-installing-nginx/) - A good getting started guide for both Salt master and minions.
-* [SaltStack: Manage entries in unmanaged files with File Blockreplace](https://makina-corpus.com/blog/metier/2014/saltstack-manage-entries-in-unmanaged-files-with-file-blockreplace) - how to use the SaltStack's core "file.blockreplace".
+* [SaltStack: Manage entries in unmanaged files with File Blockreplace](https://makina-corpus.com/blog/metier/2014/saltstack-manage-entries-in-unmanaged-files-with-file-blockreplace) - How to use the SaltStack's core `file.blockreplace`.
 * [Docker Swarm 1.12 Cluster Orchestration with SaltStack](http://btmiller.com/2016/11/27/docker-swarm-1.12-cluster-orchestration-with-saltstack.html) - Let’s see how we can automate the spin-up of a cluster using SaltStack.
 * [SaltStack - Review and how it fares against Ansible and Puppet](https://www.amon.cx/blog/saltstack-review/) - As seen from the Salt perspective.
 * [SaltStack: Keeping Salt Pillar data encrypted using GPG](http://fabianlee.org/2016/10/18/saltstack-keeping-salt-pillar-data-encrypted-using-gpg/) - On secure encryption/decryption of pillar data.
@@ -143,7 +142,7 @@ A :gem: means **really _awesome / useful_**.
 
 * [Salt (software)](https://en.wikipedia.org/wiki/Salt_(software)) - Wikipedia (English).
 * [HubbleStack: Security for DevOps](https://hubblestack.io/) - Hubble is a modular, open-source security compliance framework built on top of SaltStack.
-* [Marc Chen – CEO/Co-Founder Salt Stack, Inc.](http://aarontobler.com/marc-chen-ceoco-founder-salt-stack-inc/) - an interview with SaltStack's CEO and co-founder.
+* [Marc Chen – CEO/Co-Founder Salt Stack, Inc.](http://aarontobler.com/marc-chen-ceoco-founder-salt-stack-inc/) - An interview with SaltStack's CEO and co-founder.
 
 ## License
 
