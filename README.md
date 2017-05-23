@@ -84,6 +84,7 @@ A :gem: means **really _awesome / useful_**.
 * [Beyond Configuration Management with SaltStack for Event-Driven Infrastructure](https://www.youtube.com/watch?v=cMCH6EizVVc) - Southern California Linux Expo - January 23, 2016 - David Boucha.
 * [Automation and Orchestration with SaltStack and Twilio](https://vimeo.com/162183524) - Devops Chicago - March 2, 2016 - Nathan Brooks.
 * [Herding Cattle with SaltStack and Targeting via CMDB](https://www.youtube.com/watch?v=F3K706JJ2EI) - SaltConf16 - April 21, 2016 - Onno Ebbinge.
+* [Testing Salt States with Docker](https://www.youtube.com/watch?v=_xO7wj19OzI) - SaltStack PDX - June 23, 2015 - Jason Denning.
 
 ## Tools
 
