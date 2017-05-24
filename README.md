@@ -60,7 +60,9 @@ A :gem: means **really _awesome / useful_**.
 * [Getting Started with SaltStack - Part 2](http://blog.infracloud.io/saltstack-tutorial-part-2/) - Write a complete module for installing and configure a web server.
 * [SaltStack Examples](https://www.unixmen.com/saltstack-examples/) - Will teach you some of default functions in a quick way.
 * [Masterless Saltstack](https://honza.ca/2013/12/masterless-saltstack) - A simple guide on how to use SaltStack in masterless mode.
-* [Getting Started with Saltstack and salt-workspace](https://badgerops.net/getting-started-with-saltstack-and-salt-workspace.html) - Learning SaltStack by setting up a salt-workspace.
+* [Getting Started with Saltstack and salt-workspace](https://blog.badgerops.net/2017/04/10/getting-started-with-salt-workspace/) - Learning SaltStack by setting up a salt-workspace.
+* [Getting started with Salt Structure](https://blog.badgerops.net/2017/04/22/getting-started-with-salt-structure-2/) - Learn how to setup a structured SaltStack workspace.
+* [Writing a custom Salt Grain](https://blog.badgerops.net/2017/05/23/writing-a-custom-salt-grain/) - Writing a custom Salt Grain, and why you might want to.
 
 ## Code
 
