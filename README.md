@@ -65,6 +65,7 @@ A :gem: means **really _awesome / useful_**.
 * [Getting started with Salt Structure](https://blog.badgerops.net/2017/04/22/getting-started-with-salt-structure-2/) - Learn how to setup a structured SaltStack workspace.
 * [Writing a custom Salt Grain](https://blog.badgerops.net/2017/05/23/writing-a-custom-salt-grain/) - Writing a custom Salt Grain, and why you might want to.
 * [Building Self-Healing Applications](http://bencane.com/2014/12/30/building-self-healing-applications-with-salt-api/) - Automate the detection and first action to correct errors in your infrastructure.
+* [Introduction to SaltStack](https://github.com/redmage123/Introduction-to-Saltstack) - A two day course designed to quickly introduce System Administrators and Application Developers on how to start using Saltstack.
 
 ## Code
 
