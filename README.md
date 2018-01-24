@@ -2,7 +2,7 @@
 
 > A collaborative curated list of awesome SaltStack resources, tutorials and other salted stuff.
 
-[<img src="https://user-images.githubusercontent.com/519955/35266936-00dfcd48-0025-11e8-9a59-e8de46c38ae3.png" width="100%">](https://SaltStack.com)
+[<img src="https://user-images.githubusercontent.com/519955/35341388-d8c0cf0e-0125-11e8-9831-51f13fab58c7.jpg" width="100%">](https://SaltStack.com)
 
 SaltStack is the other configuration management system built with Python.\
 It takes a new approach to infrastructure management by developing software that is easy enough to get running in seconds, scalable enough to manage tens of thousands of servers, and fast enough to control and communicate with them in milliseconds.\
