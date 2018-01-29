@@ -91,6 +91,7 @@ A :gem: means **really _awesome / useful_**.
 - [Testing Salt States with Docker](https://www.youtube.com/watch?v=_xO7wj19OzI) - SaltStack PDX - June 23, 2015 - Jason Denning.
 - [Beyond Configuration Management with SaltStack for Event-Driven Infrastructure](https://www.youtube.com/watch?v=cMCH6EizVVc) - Southern California Linux Expo - January 23, 2016 - David Boucha.
 - [Automation and Orchestration with SaltStack and Twilio](https://vimeo.com/162183524) - Devops Chicago - March 2, 2016 - Nathan Brooks.
+- [SaltStack for FreeBSD](https://www.youtube.com/watch?v=HijG0hWebZk&list=PL5yV8umka8YQOr1wm719In5LITdGzQMOF) - A 7-part video crash course on SaltStack for FreeBSD.
 - [SaltConf15 - YouTube](https://www.youtube.com/playlist?list=PL9svBjLDUl_8BqpIDKlCTqHZI2mkysTvZ) - There were more than 60 talks delivered at SaltConf15 and we recorded all of them.
 - [SaltConf16 - YouTube](https://www.youtube.com/playlist?list=PL9svBjLDUl_-sVwcRliUQ-VGDb2qvwpx_) - Video recordings of SaltConf16 presentations.
 - [SaltConf17 - YouTube](https://www.youtube.com/playlist?list=PL9svBjLDUl_-8yJxp-nSlmM9KYEQH4fgj) - Video recordings of SaltConf17 presentations delivered by SaltStack customers and partners.
