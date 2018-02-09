@@ -122,6 +122,7 @@ A :gem: means **really _awesome / useful_**.
 - [SaltStack - Review and how it fares against Ansible and Puppet](https://www.amon.cx/blog/saltstack-review/) - As seen from the Salt perspective.
 - [SaltStack: Keeping Salt Pillar data encrypted using GPG](http://fabianlee.org/2016/10/18/saltstack-keeping-salt-pillar-data-encrypted-using-gpg/) - On secure encryption/decryption of pillar data.
 - [Secure Pillar in SaltStack with GPG](https://gijs.io/2017/02/28/secure-pillar-data-in-saltstack-with-gpg/) - Encrypting your pillar data can be done with GPG.
+- [Network-Automation with Salt, NAPALM and Kubernetes](http://blog.simonmetzger.de/2018/02/salt-napalm-k8s-network-automation/) - How to manage legacy devices that are not able to install software natively on themselves.
 
 ## Discussions
 
