@@ -100,10 +100,11 @@ A :gem: means **really _awesome / useful_**.
 
 ## Tools
 
-- [SaltPad](https://github.com/Lothiraldan/saltpad) - SaltPad is a GUI tool to manage SaltStack deployments + orchestration.
+- ~~[SaltPad](https://github.com/Lothiraldan/saltpad) - SaltPad is a GUI tool to manage SaltStack deployments + orchestration.~~ (**Abandoned since September 2016 - see [here](https://github.com/Lothiraldan/saltpad/issues/190)**)
 - [SaltShaker](https://github.com/yueyongyue/saltshaker) - Another good looking GUI for SaltStack.
 - [SaltGUI](https://github.com/maerteijn/SaltGUI) - A web interface for managing SaltStack based infrastructure.
 - [Pepperboard](https://github.com/webedia-dev/pepperboard) - A simple and modular dashboard toolkit for SaltStack.
+- [Molten] (https://github.com/martinhoefling/molten) - Molten is a WebUI for the REST API exposed by Saltstack.
 
 ## Presentations
 
