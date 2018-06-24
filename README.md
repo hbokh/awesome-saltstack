@@ -159,7 +159,7 @@ A :gem: means **really _awesome / useful_**.
 
 - [Salt (software)](https://en.wikipedia.org/wiki/Salt_(software)) - Wikipedia (English).
 - [HubbleStack: Security for DevOps](https://hubblestack.io/) - Hubble is a modular, open-source security compliance framework built on top of SaltStack.
-- [Marc Chen – CEO/Co-Founder Salt Stack, Inc.](http://aarontobler.com/marc-chen-ceoco-founder-salt-stack-inc/) - An interview with SaltStack's CEO and co-founder.
+- [Marc Chenn – CEO / Co-Founder Salt Stack, Inc.](http://www.dannytoney.com/2018/04/04/marc-chenn/) - An interview with SaltStack's CEO and co-founder.
 
 ## License
 
