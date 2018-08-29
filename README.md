@@ -79,6 +79,7 @@ A :gem: means **really _awesome / useful_**.
 ## Books
 
 - [O'Reilly - Salt Essentials](http://shop.oreilly.com/product/0636920033240.do) by Craig Sebenik, Thomas Hatch.
+- [O'Reilly - Network Automation at Scale](https://www.cloudflare.com/media/pdf/network-automation-at-scale.pdf) by Mircea Ulinic and Seth House (an ebook sponsored by Cloudflare).
 - [Leanpub - SaltStack For DevOps](https://leanpub.com/saltstackfordevops) by Aymen El Amri.
 - [Leanpub - Getting Started with SaltStack](https://leanpub.com/gettingstartedwithsaltstack) by Ben Hosmer.
 - [Packt - Learning SaltStack, 2nd ed.](https://www.packtpub.com/networking-and-servers/learning-saltstack-second-edition) by Colton Myers.
