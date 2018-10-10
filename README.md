@@ -68,6 +68,7 @@ A :gem: means **really _awesome / useful_**.
 - [Introduction to SaltStack](https://github.com/redmage123/Introduction-to-Saltstack) - A two day course designed to quickly introduce System Administrators and Application Developers on how to start using Saltstack.
 - [The Simplest Way to Learn SaltStack](https://medium.com/@timlwhite/the-simplest-way-to-learn-saltstack-cd9f5edbc967) - Start to learn the basics of SaltStack by setting it up in Docker.
 - [SaltStack - Quick Guide](https://www.tutorialspoint.com/saltstack/saltstack_quick_guide.htm) - Part of the larger "Learn SaltStack"-tutorial at Tutorials Point.
+- [A Comprehensive Introduction to Salt](https://implement.pt/2018/10/a-comprehensive-introduction-to-salt/) - Architectural overview and how to use Salt as a full infrastructure management tool.
 
 ## Code
 
@@ -128,6 +129,7 @@ A :gem: means **really _awesome / useful_**.
 - [Network-Automation with Salt, NAPALM and Kubernetes](http://blog.simonmetzger.de/2018/02/salt-napalm-k8s-network-automation/) - How to manage legacy devices that are not able to install software natively on themselves.
 - [Python development for infrastructure management using Salt](https://mirceaulinic.net/2017-12-19-salt-pure-python/) - The overlooked side of Salt and some best practices.
 - [Using Salt like Ansible](https://duncan.codes/2016/05/18/using-salt-like-ansible.html) - How to use Salt in a way similar to Ansible.
+- [Using Salt with reclass](http://www.yet.org/2016/10/reclass/) - Use class inheritance to define nodes roles and avoid duplication.
 
 ## Discussions
 
