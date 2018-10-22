@@ -68,6 +68,7 @@ A :gem: means **really _awesome / useful_**.
 - [Introduction to SaltStack](https://github.com/redmage123/Introduction-to-Saltstack) - A two day course designed to quickly introduce System Administrators and Application Developers on how to start using Saltstack.
 - [The Simplest Way to Learn SaltStack](https://medium.com/@timlwhite/the-simplest-way-to-learn-saltstack-cd9f5edbc967) - Start to learn the basics of SaltStack by setting it up in Docker.
 - [SaltStack - Quick Guide](https://www.tutorialspoint.com/saltstack/saltstack_quick_guide.htm) - Part of the larger "Learn SaltStack"-tutorial at Tutorials Point.
+- [A Comprehensive Introduction to Salt](https://implement.pt/2018/10/a-comprehensive-introduction-to-salt/) - Architectural overview and how to use Salt as a full infrastructure management tool.
 
 ## Code
 
@@ -79,6 +80,7 @@ A :gem: means **really _awesome / useful_**.
 ## Books
 
 - [O'Reilly - Salt Essentials](http://shop.oreilly.com/product/0636920033240.do) by Craig Sebenik, Thomas Hatch.
+- [O'Reilly - Network Automation at Scale](https://www.cloudflare.com/media/pdf/network-automation-at-scale.pdf) by Mircea Ulinic and Seth House (an ebook sponsored by Cloudflare).
 - [Leanpub - SaltStack For DevOps](https://leanpub.com/saltstackfordevops) by Aymen El Amri.
 - [Leanpub - Getting Started with SaltStack](https://leanpub.com/gettingstartedwithsaltstack) by Ben Hosmer.
 - [Packt - Learning SaltStack, 2nd ed.](https://www.packtpub.com/networking-and-servers/learning-saltstack-second-edition) by Colton Myers.
@@ -127,6 +129,7 @@ A :gem: means **really _awesome / useful_**.
 - [Network-Automation with Salt, NAPALM and Kubernetes](http://blog.simonmetzger.de/2018/02/salt-napalm-k8s-network-automation/) - How to manage legacy devices that are not able to install software natively on themselves.
 - [Python development for infrastructure management using Salt](https://mirceaulinic.net/2017-12-19-salt-pure-python/) - The overlooked side of Salt and some best practices.
 - [Using Salt like Ansible](https://duncan.codes/2016/05/18/using-salt-like-ansible.html) - How to use Salt in a way similar to Ansible.
+- [Using Salt with reclass](http://www.yet.org/2016/10/reclass/) - Use class inheritance to define nodes roles and avoid duplication.
 
 ## Discussions
 
@@ -159,7 +162,7 @@ A :gem: means **really _awesome / useful_**.
 
 - [Salt (software)](https://en.wikipedia.org/wiki/Salt_(software)) - Wikipedia (English).
 - [HubbleStack: Security for DevOps](https://hubblestack.io/) - Hubble is a modular, open-source security compliance framework built on top of SaltStack.
-- [Marc Chen – CEO/Co-Founder Salt Stack, Inc.](http://aarontobler.com/marc-chen-ceoco-founder-salt-stack-inc/) - An interview with SaltStack's CEO and co-founder.
+- [Marc Chenn – CEO / Co-Founder Salt Stack, Inc.](http://www.dannytoney.com/2018/04/04/marc-chenn/) - An interview with SaltStack's CEO and co-founder.
 
 ## License
 
