@@ -2,7 +2,7 @@
 
 > A collaborative curated list of awesome SaltStack resources, tutorials and other salted stuff.
 
-[<img src="https://user-images.githubusercontent.com/519955/35341388-d8c0cf0e-0125-11e8-9831-51f13fab58c7.jpg" width="100%">](https://SaltStack.com)
+[<img src="https://user-images.githubusercontent.com/519955/35341388-d8c0cf0e-0125-11e8-9831-51f13fab58c7.jpg" width="100%">](https://www.saltstack.com/)
 
 SaltStack is the other configuration management system built with Python.\
 It takes a new approach to infrastructure management by developing software that is easy enough to get running in seconds, scalable enough to manage tens of thousands of servers, and fast enough to control and communicate with them in milliseconds.\
@@ -28,7 +28,7 @@ A :gem: means **really _awesome / useful_**.
 
 ## Official resources
 
-- [SaltStack site](https://saltstack.com/) - Company website.
+- [SaltStack site](https://www.saltstack.com/) - Company website.
 - [GitHub repo](https://github.com/saltstack/salt) - Salt's source code, issues discussion and collaboration.
 - [SaltStack Documentation](https://docs.saltstack.com/en/latest/) - Official documentation.
 - [Salt in 10 minutes](https://docs.saltstack.com/en/latest/topics/tutorials/walkthrough.html) - Official walkthrough.
@@ -55,7 +55,7 @@ A :gem: means **really _awesome / useful_**.
 - [SaltStack Infrastructure: Creating Salt States for MySQL Database Servers](https://www.digitalocean.com/community/tutorials/saltstack-infrastructure-creating-salt-states-for-mysql-database-servers) - Part 6 in the series _Managing Development Environments with SaltStack_.
 - [Getting Started with SaltStack - the Other Configuration Management System Built with Python](https://www.linuxjournal.com/content/getting-started-salt-stack-other-configuration-management-system-built-python) - A Linux Journal "Getting started" from 2013.
 - [Create an army of Salt minions on DigitalOcean](http://www.aaronbell.com/lets-make-salt-minions-on-digitalocean/) - Combine the simplicity of Salt with DigitalOcean's snapshot and image feature.
-- [Vagrant & SaltStack Quickstart Tutorial](http://hittaruki.info/post/vagrant-saltstack-tutorial/) - Getting started with SaltStack and Vagrant.
+- [Vagrant & SaltStack Quickstart Tutorial](https://hittaruki.info/post/vagrant-saltstack-tutorial/) - Getting started with SaltStack and Vagrant.
 - [Salt-API, A Crash Course](https://thereluctanttecchie.blogspot.com/2014/01/salt-api-crash-course.html) - Get a barebones salt-api proof of concept up and running.
 - [Getting Started with SaltStack - Part 1](http://blog.infracloud.io/saltstack-tutorial-part-1/) -  Simple setup and play around on the command line.
 - [Getting Started with SaltStack - Part 2](http://blog.infracloud.io/saltstack-tutorial-part-2/) - Write a complete module for installing and configure a web server.
@@ -68,7 +68,6 @@ A :gem: means **really _awesome / useful_**.
 - [Introduction to SaltStack](https://github.com/redmage123/Introduction-to-Saltstack) - A two day course designed to quickly introduce System Administrators and Application Developers on how to start using Saltstack.
 - [The Simplest Way to Learn SaltStack](https://medium.com/@timlwhite/the-simplest-way-to-learn-saltstack-cd9f5edbc967) - Start to learn the basics of SaltStack by setting it up in Docker.
 - [SaltStack - Quick Guide](https://www.tutorialspoint.com/saltstack/saltstack_quick_guide.htm) - Part of the larger "Learn SaltStack"-tutorial at Tutorials Point.
-- [A Comprehensive Introduction to Salt](https://implement.pt/2018/10/a-comprehensive-introduction-to-salt/) - Architectural overview and how to use Salt as a full infrastructure management tool.
 
 ## Code
 
@@ -102,7 +101,7 @@ A :gem: means **really _awesome / useful_**.
 
 ## Tools
 
-- [SaltGUI](https://github.com/maerteijn/SaltGUI) - A web interface for managing SaltStack based infrastructure.
+- [SaltGUI](https://github.com/erwindon/SaltGUI) - A web interface for managing SaltStack based infrastructure.
 - [Pepperboard](https://github.com/webedia-dev/pepperboard) - A simple and modular dashboard toolkit for SaltStack.
 - [Molten](https://github.com/martinhoefling/molten) - Molten is a WebUI for the REST API exposed by Saltstack.
 - [salt-cumin](https://pypi.org/project/salt-cumin/) - A CLI front-end to a running salt-api system.
@@ -122,14 +121,12 @@ A :gem: means **really _awesome / useful_**.
 - [One week of Salt: frustrations and reflections](https://stevebennett.me/2014/02/17/one-week-of-salt-frustrations-and-reflections/) - First hand experiences from a Chef user.
 - [Getting started with SaltStack by example: Automatically Installing nginx](http://bencane.com/2013/09/03/getting-started-with-saltstack-by-example-automatically-installing-nginx/) - A good getting started guide for both Salt master and minions.
 - [SaltStack: Manage entries in unmanaged files with File Blockreplace](https://makina-corpus.com/blog/metier/2014/saltstack-manage-entries-in-unmanaged-files-with-file-blockreplace) - How to use the SaltStack's core `file.blockreplace`.
-- [Docker Swarm 1.12 Cluster Orchestration with SaltStack](http://btmiller.com/2016/11/27/docker-swarm-1.12-cluster-orchestration-with-saltstack.html) - Let’s see how we can automate the spin-up of a cluster using SaltStack.
-- [SaltStack - Review and how it fares against Ansible and Puppet](https://www.amon.cx/blog/saltstack-review/) - As seen from the Salt perspective.
+- [Docker Swarm 1.12 Cluster Orchestration with SaltStack](https://btmiller.com/2016/11/27/docker-swarm-1.12-cluster-orchestration-with-saltstack.html) - Let’s see how we can automate the spin-up of a cluster using SaltStack.
 - [SaltStack: Keeping Salt Pillar data encrypted using GPG](http://fabianlee.org/2016/10/18/saltstack-keeping-salt-pillar-data-encrypted-using-gpg/) - On secure encryption/decryption of pillar data.
 - [Secure Pillar in SaltStack with GPG](https://gijs.io/2017/02/28/secure-pillar-data-in-saltstack-with-gpg/) - Encrypting your pillar data can be done with GPG.
 - [Network-Automation with Salt, NAPALM and Kubernetes](http://blog.simonmetzger.de/2018/02/salt-napalm-k8s-network-automation/) - How to manage legacy devices that are not able to install software natively on themselves.
 - [Python development for infrastructure management using Salt](https://mirceaulinic.net/2017-12-19-salt-pure-python/) - The overlooked side of Salt and some best practices.
 - [Using Salt like Ansible](https://duncan.codes/2016/05/18/using-salt-like-ansible.html) - How to use Salt in a way similar to Ansible.
-- [Using Salt with reclass](http://www.yet.org/2016/10/reclass/) - Use class inheritance to define nodes roles and avoid duplication.
 
 ## Discussions
 
@@ -141,7 +138,7 @@ A :gem: means **really _awesome / useful_**.
 - [Twitter feed](https://twitter.com/saltstack) - Official Twitter account.
 - [Mailing list](https://groups.google.com/forum/#!forum/salt-users) - Salt-users mailinglist on Google Groups.
 - [SaltStack Meetups](https://www.meetup.com/pro/saltstack/) - Worldwide Meetup groups.
-- [SaltConf](http://saltconf.com/) - Annual user conference for SaltStack customers, users, partners, developers and community members.
+- [SaltConf](https://saltconf.com/) - Annual user conference for SaltStack customers, users, partners, developers and community members.
 - [Facebook](https://www.facebook.com/SaltStack/) - Official Facebook account.
 
 ## Formulas
