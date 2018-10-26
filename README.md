@@ -102,7 +102,7 @@ A :gem: means **really _awesome / useful_**.
 
 ## Tools
 
-- [SaltGUI](https://github.com/maerteijn/SaltGUI) - A web interface for managing SaltStack based infrastructure.
+- [SaltGUI](https://github.com/erwindon/SaltGUI) - A web interface for managing SaltStack based infrastructure.
 - [Pepperboard](https://github.com/webedia-dev/pepperboard) - A simple and modular dashboard toolkit for SaltStack.
 - [Molten](https://github.com/martinhoefling/molten) - Molten is a WebUI for the REST API exposed by Saltstack.
 - [salt-cumin](https://pypi.org/project/salt-cumin/) - A CLI front-end to a running salt-api system.
