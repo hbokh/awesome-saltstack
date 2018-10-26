@@ -55,7 +55,7 @@ A :gem: means **really _awesome / useful_**.
 - [SaltStack Infrastructure: Creating Salt States for MySQL Database Servers](https://www.digitalocean.com/community/tutorials/saltstack-infrastructure-creating-salt-states-for-mysql-database-servers) - Part 6 in the series _Managing Development Environments with SaltStack_.
 - [Getting Started with SaltStack - the Other Configuration Management System Built with Python](https://www.linuxjournal.com/content/getting-started-salt-stack-other-configuration-management-system-built-python) - A Linux Journal "Getting started" from 2013.
 - [Create an army of Salt minions on DigitalOcean](http://www.aaronbell.com/lets-make-salt-minions-on-digitalocean/) - Combine the simplicity of Salt with DigitalOcean's snapshot and image feature.
-- [Vagrant & SaltStack Quickstart Tutorial](http://hittaruki.info/post/vagrant-saltstack-tutorial/) - Getting started with SaltStack and Vagrant.
+- [Vagrant & SaltStack Quickstart Tutorial](https://hittaruki.info/post/vagrant-saltstack-tutorial/) - Getting started with SaltStack and Vagrant.
 - [Salt-API, A Crash Course](https://thereluctanttecchie.blogspot.com/2014/01/salt-api-crash-course.html) - Get a barebones salt-api proof of concept up and running.
 - [Getting Started with SaltStack - Part 1](http://blog.infracloud.io/saltstack-tutorial-part-1/) -  Simple setup and play around on the command line.
 - [Getting Started with SaltStack - Part 2](http://blog.infracloud.io/saltstack-tutorial-part-2/) - Write a complete module for installing and configure a web server.
@@ -140,7 +140,7 @@ A :gem: means **really _awesome / useful_**.
 - [Twitter feed](https://twitter.com/saltstack) - Official Twitter account.
 - [Mailing list](https://groups.google.com/forum/#!forum/salt-users) - Salt-users mailinglist on Google Groups.
 - [SaltStack Meetups](https://www.meetup.com/pro/saltstack/) - Worldwide Meetup groups.
-- [SaltConf](http://saltconf.com/) - Annual user conference for SaltStack customers, users, partners, developers and community members.
+- [SaltConf](https://saltconf.com/) - Annual user conference for SaltStack customers, users, partners, developers and community members.
 - [Facebook](https://www.facebook.com/SaltStack/) - Official Facebook account.
 
 ## Formulas
