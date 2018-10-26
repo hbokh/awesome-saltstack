@@ -2,7 +2,7 @@
 
 > A collaborative curated list of awesome SaltStack resources, tutorials and other salted stuff.
 
-[<img src="https://user-images.githubusercontent.com/519955/35341388-d8c0cf0e-0125-11e8-9831-51f13fab58c7.jpg" width="100%">](https://SaltStack.com)
+[<img src="https://user-images.githubusercontent.com/519955/35341388-d8c0cf0e-0125-11e8-9831-51f13fab58c7.jpg" width="100%">](https://www.saltstack.com)
 
 SaltStack is the other configuration management system built with Python.\
 It takes a new approach to infrastructure management by developing software that is easy enough to get running in seconds, scalable enough to manage tens of thousands of servers, and fast enough to control and communicate with them in milliseconds.\
@@ -28,12 +28,12 @@ A :gem: means **really _awesome / useful_**.
 
 ## Official resources
 
-- [SaltStack site](https://saltstack.com/) - Company website.
+- [SaltStack site](https://www.saltstack.com/) - Company website.
 - [GitHub repo](https://github.com/saltstack/salt) - Salt's source code, issues discussion and collaboration.
 - [SaltStack Documentation](https://docs.saltstack.com/en/latest/) - Official documentation.
 - [Salt in 10 minutes](https://docs.saltstack.com/en/latest/topics/tutorials/walkthrough.html) - Official walkthrough.
 - [SaltStack Get Started](https://docs.saltstack.com/en/getstarted/) - These tutorials walk you through the basics of getting SaltStack up and running. :gem:
-- [Training and certification](https://saltstack.com/training/) - Official training.
+- [Training and certification](https://www.saltstack.com/training/) - Official training.
 - [Jinja2 documentation](http://jinja.pocoo.org/docs/latest/) - This official documentation covers the used templating language in Salt.
 
 ## Tutorials
