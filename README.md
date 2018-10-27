@@ -1,4 +1,4 @@
-# Awesome SaltStack  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Buiild status](https://travis-ci.org/hbokh/awesome-saltstack.svg?branch=develop)](https://travis-ci.org/hbokh/awesome-saltstack) [![Subscribe to updates](https://i.listlist.net/badge.svg?m=hbokh%2Fawesome-saltstack)](https://listlist.net/user/hbokh/awesome-saltstack?subscribe)
+# Awesome SaltStack  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/hbokh/awesome-saltstack.svg?branch=develop)](https://travis-ci.org/hbokh/awesome-saltstack) [![Subscribe to updates](https://i.listlist.net/badge.svg?m=hbokh%2Fawesome-saltstack)](https://listlist.net/user/hbokh/awesome-saltstack?subscribe)
 
 > A collaborative curated list of awesome SaltStack resources, tutorials and other salted stuff.
 
@@ -33,7 +33,7 @@ A :gem: means **really _awesome / useful_**.
 - [SaltStack Documentation](https://docs.saltstack.com/en/latest/) - Official documentation.
 - [Salt in 10 minutes](https://docs.saltstack.com/en/latest/topics/tutorials/walkthrough.html) - Official walkthrough.
 - [SaltStack Get Started](https://docs.saltstack.com/en/getstarted/) - These tutorials walk you through the basics of getting SaltStack up and running. :gem:
-- [Training and certification](https://saltstack.com/training/) - Official training.
+- [Training and certification](https://www.saltstack.com/products/saltstack-training/) - Official training.
 - [Jinja2 documentation](http://jinja.pocoo.org/docs/latest/) - This official documentation covers the used templating language in Salt.
 
 ## Tutorials
@@ -68,6 +68,7 @@ A :gem: means **really _awesome / useful_**.
 - [Introduction to SaltStack](https://github.com/redmage123/Introduction-to-Saltstack) - A two day course designed to quickly introduce System Administrators and Application Developers on how to start using Saltstack.
 - [The Simplest Way to Learn SaltStack](https://medium.com/@timlwhite/the-simplest-way-to-learn-saltstack-cd9f5edbc967) - Start to learn the basics of SaltStack by setting it up in Docker.
 - [SaltStack - Quick Guide](https://www.tutorialspoint.com/saltstack/saltstack_quick_guide.htm) - Part of the larger "Learn SaltStack"-tutorial at Tutorials Point.
+- [A Comprehensive Introduction to Salt](https://implement.pt/2018/10/a-comprehensive-introduction-to-salt/) - Architectural overview and how to use Salt as a full infrastructure management tool.
 
 ## Code
 
@@ -127,6 +128,7 @@ A :gem: means **really _awesome / useful_**.
 - [Network-Automation with Salt, NAPALM and Kubernetes](http://blog.simonmetzger.de/2018/02/salt-napalm-k8s-network-automation/) - How to manage legacy devices that are not able to install software natively on themselves.
 - [Python development for infrastructure management using Salt](https://mirceaulinic.net/2017-12-19-salt-pure-python/) - The overlooked side of Salt and some best practices.
 - [Using Salt like Ansible](https://duncan.codes/2016/05/18/using-salt-like-ansible.html) - How to use Salt in a way similar to Ansible.
+- [Using Salt with reclass](http://www.yet.org/2016/10/reclass/) - Use class inheritance to define nodes roles and avoid duplication.
 
 ## Discussions
 
