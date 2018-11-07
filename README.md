@@ -153,7 +153,7 @@ A :gem: means **really _awesome / useful_**.
 ## Cheat sheets
 
 - [SaltStack Cheat Sheet Plus](https://github.com/fmdlc/saltstack-cheatsheet) - by Facu de la Cruz.
-- [Salt Commands cheat sheet](https://sites.google.com/site/bladelogicwiki/salt-stack/guides/salt-commands) - List of common Salt commands (by "Bladelogic").
+- [Salt Commands cheat sheet](https://sites.google.com/site/mrxpalmeiras/saltstack/salt-cheat-sheet) - List of common Salt commands.
 - [SaltStack Cheat Sheet](http://www.xenuser.org/saltstack-cheat-sheet/) - by Valentin Höbel.
 - [SaltStack Wiki](https://github.com/saltstack/salt/wiki/Cheat-Sheet) - Cheat sheet in the SaltStack GitHub Wiki.
 
