@@ -57,8 +57,8 @@ A :gem: means **really _awesome / useful_**.
 - [Create an army of Salt minions on DigitalOcean](http://www.aaronbell.com/lets-make-salt-minions-on-digitalocean/) - Combine the simplicity of Salt with DigitalOcean's snapshot and image feature.
 - [Vagrant & SaltStack Quickstart Tutorial](https://hittaruki.info/post/vagrant-saltstack-tutorial/) - Getting started with SaltStack and Vagrant.
 - [Salt-API, A Crash Course](https://thereluctanttecchie.blogspot.com/2014/01/salt-api-crash-course.html) - Get a barebones salt-api proof of concept up and running.
-- [Getting Started with SaltStack - Part 1](http://blog.infracloud.io/saltstack-tutorial-part-1/) -  Simple setup and play around on the command line.
-- [Getting Started with SaltStack - Part 2](http://blog.infracloud.io/saltstack-tutorial-part-2/) - Write a complete module for installing and configure a web server.
+- [Getting Started with SaltStack - Part 1](https://www.infracloud.io/saltstack-tutorial-part-1/) -  Simple setup and play around on the command line.
+- [Getting Started with SaltStack - Part 2](https://www.infracloud.io/saltstack-tutorial-part-2/) - Write a complete module for installing and configure a web server.
 - [SaltStack Examples](https://www.unixmen.com/saltstack-examples/) - Will teach you some of default functions in a quick way.
 - [Masterless Saltstack](https://honza.ca/2013/12/masterless-saltstack) - A simple guide on how to use SaltStack in masterless mode.
 - [Getting Started with Saltstack and salt-workspace](https://blog.badgerops.net/2017/04/10/getting-started-with-salt-workspace/) - Learning SaltStack by setting up a salt-workspace.
@@ -105,7 +105,7 @@ A :gem: means **really _awesome / useful_**.
 - [SaltGUI](https://github.com/erwindon/SaltGUI) - A web interface for managing SaltStack based infrastructure.
 - [Pepperboard](https://github.com/webedia-dev/pepperboard) - A simple and modular dashboard toolkit for SaltStack.
 - [Molten](https://github.com/martinhoefling/molten) - Molten is a WebUI for the REST API exposed by Saltstack.
-- [salt-cumin](https://pypi.org/project/salt-cumin/) - A CLI front-end to a running salt-api system.
+- [salt-pepper](https://pypi.org/project/salt-pepper/) - A CLI Frontend to the salt-api systems.
 
 ## Presentations
 
