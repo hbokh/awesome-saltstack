@@ -129,6 +129,7 @@ A :gem: means **really _awesome / useful_**.
 - [Python development for infrastructure management using Salt](https://mirceaulinic.net/2017-12-19-salt-pure-python/) - The overlooked side of Salt and some best practices.
 - [Using Salt like Ansible](https://duncan.codes/2016/05/18/using-salt-like-ansible.html) - How to use Salt in a way similar to Ansible.
 - [Using Salt with reclass](http://www.yet.org/2016/10/reclass/) - Use class inheritance to define nodes roles and avoid duplication.
+- [Text editor plugins for Salt states and YAML/Jinja](https://salt.tips/text-editor-plugins-for-salt-states-and-yaml-jinja/) - Covers plugins for different editors when writing Salt states.
 
 ## Discussions
 
