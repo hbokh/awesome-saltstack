@@ -112,10 +112,10 @@ A :gem: means **really _awesome / useful_**.
 - [An introduction to infrastructure management with SaltStack](https://www.slideshare.net/saltstack/an-overvisaltstack-presentation-clean) - by Aurelien Geron.
 - [Saltpad: A SaltStack Web GUI](https://speakerdeck.com/lothiraldan/saltpad-a-saltstack-web-gui) - by Boris Feld.
 - [Intro to SaltStack](http://www.justincarmony.com/slides/salt-tutorial/) - by Justin Carmony.
+- [salt-deconstructed](http://salt-decon.carson-anderson.com/) - Video and presentation (slides & PDF) by Carson Anderson.
 
 ## Blogposts and opinions
 
-- [Salt To Finish](http://www.salttofinish.com/) - "the original SaltStack blog".
 - [Docker with SaltStack](https://opsnotice.xyz/docker-with-saltstack/) - How-to use SaltStack on a virtual cloud server based on Debian or Ubuntu.
 - [Moving away from Puppet: SaltStack or Ansible?](https://blog.ryandlane.com/2014/08/04/moving-away-from-puppet-saltstack-or-ansible/) -  Salt and Ansible as viable and excellent options for replacing Puppet.
 - [One week of Salt: frustrations and reflections](https://stevebennett.me/2014/02/17/one-week-of-salt-frustrations-and-reflections/) - First hand experiences from a Chef user.
