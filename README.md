@@ -100,6 +100,7 @@ A :gem: means **really _awesome / useful_**.
 ## Tools
 
 - [SaltGUI](https://github.com/erwindon/SaltGUI) - A web interface for managing SaltStack based infrastructure.
+- [Silica](https://gitlab.com/perfecto25/silica) - A Flask-based lightweight Salt web console.
 - [Pepperboard](https://github.com/webedia-dev/pepperboard) - A simple and modular dashboard toolkit for SaltStack.
 - [Molten](https://github.com/martinhoefling/molten) - Molten is a WebUI for the REST API exposed by Saltstack.
 - [salt-pepper](https://pypi.org/project/salt-pepper/) - A CLI Frontend to the salt-api systems.
@@ -129,6 +130,7 @@ A :gem: means **really _awesome / useful_**.
 - [Writing a custom Salt Grain](https://blog.badgerops.net/2017/05/23/writing-a-custom-salt-grain/) - Writing a custom Salt Grain, and why you might want to.
 - [Building Self-Healing Applications](http://bencane.com/2014/12/30/building-self-healing-applications-with-salt-api/) - Automate the detection and first action to correct errors in your infrastructure.
 - [Testing your salt states with kitchen-salt](https://blog.gtmanfred.com/kitchen-salt.html) -  Make it easy to test salt states or formulas independently of a production environment.
+- [Salt Sudo](https://medium.com/@mike.reider/using-saltstack-for-emergency-sudoers-access-tempsudo-d5417e528e4d) - Using Salt custom modules to manage sudo access for users.
 
 ## Discussions
 
