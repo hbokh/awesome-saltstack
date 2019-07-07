@@ -132,6 +132,7 @@ A :gem: means **really _awesome / useful_**.
 - [Building Self-Healing Applications](http://bencane.com/2014/12/30/building-self-healing-applications-with-salt-api/) - Automate the detection and first action to correct errors in your infrastructure.
 - [Testing your salt states with kitchen-salt](https://blog.gtmanfred.com/kitchen-salt.html) -  Make it easy to test salt states or formulas independently of a production environment.
 - [Salt Sudo](https://medium.com/@mike.reider/using-saltstack-for-emergency-sudoers-access-tempsudo-d5417e528e4d) - Using Salt custom modules to manage sudo access for users.
+- [Complex User management with Saltstack (using Py! renderer)](https://medium.com/@mike.reider/complex-user-management-with-saltstack-using-py-renderer-a4caa5cf229a) - Using a centralized User YAML file that contains all users’ data.
 
 ## Discussions
 
