@@ -65,7 +65,6 @@ A :gem: means **really _awesome / useful_**.
 - [Introduction to SaltStack](https://github.com/redmage123/Introduction-to-Saltstack) - A two day course designed to quickly introduce System Administrators and Application Developers on how to start using Saltstack.
 - [The Simplest Way to Learn SaltStack](https://medium.com/@timlwhite/the-simplest-way-to-learn-saltstack-cd9f5edbc967) - Start to learn the basics of SaltStack by setting it up in Docker.
 - [SaltStack - Quick Guide](https://www.tutorialspoint.com/saltstack/saltstack_quick_guide.htm) - Part of the larger "Learn SaltStack"-tutorial at Tutorials Point.
-- [A Comprehensive Introduction to Salt](https://implement.pt/2018/10/a-comprehensive-introduction-to-salt/) - Architectural overview and how to use Salt as a full infrastructure management tool.
 
 ## Code
 
@@ -101,7 +100,6 @@ A :gem: means **really _awesome / useful_**.
 
 - [SaltGUI](https://github.com/erwindon/SaltGUI) - A web interface for managing SaltStack based infrastructure.
 - [Silica](https://gitlab.com/perfecto25/silica) - A Flask-based lightweight Salt web console.
-- [Pepperboard](https://github.com/webedia-dev/pepperboard) - A simple and modular dashboard toolkit for SaltStack.
 - [Molten](https://github.com/martinhoefling/molten) - Molten is a WebUI for the REST API exposed by Saltstack.
 - [salt-pepper](https://pypi.org/project/salt-pepper/) - A CLI Frontend to the salt-api systems.
 - [salt-sproxy](https://github.com/mirceaulinic/salt-sproxy) - Salt plugin to automate the management and configuration of devices and applications, without running (Proxy) Minions.
