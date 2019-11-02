@@ -105,6 +105,7 @@ A :gem: means **really _awesome / useful_**.
 - [salt-sproxy](https://github.com/mirceaulinic/salt-sproxy) - Salt plugin to automate the management and configuration of devices and applications, without running (Proxy) Minions.
 - [salt-lint](https://github.com/warpnet/salt-lint/) - Checks Salt state files (SLS) for practices and behavior that could potentially be improved.
 - [Alcali](https://alcali.dev/) - A web based tool for monitoring and administrating Saltstack Salt.
+- [ISalt](https://github.com/mirceaulinic/isalt) - IPython-based command shell for interactive Salt programming.
 
 ## Presentations
 
