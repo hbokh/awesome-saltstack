@@ -72,7 +72,7 @@ A :gem: means **really _awesome / useful_**.
 - [zulily/buoyant](https://github.com/zulily/buoyant) - Leverages docker to provide an alternative to VM-centric SaltStack development environments.
 - [valentin2105/Kubernetes-Saltstack](https://github.com/valentin2105/Kubernetes-Saltstack) - Saltstack recipe to deploy Kubernetes cluster from scratch.
 - [madflojo/masterless-salt-base](https://github.com/madflojo/masterless-salt-base) - Quickly bootstrap a generic(ish) Ubuntu server. One that is ready to host Docker containers.
-- [cdsrv/mysaltmaster](https://github.com/CDSRV/mysaltmaster) - turnkey salt environment from upstream git checkout - includes necessary config files from packaged version
+- [cdsrv/mysaltmaster](https://github.com/CDSRV/mysaltmaster) - turnkey salt environment from upstream git checkout - includes necessary config files from packaged version.
 
 ## Books
 
