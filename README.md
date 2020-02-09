@@ -60,8 +60,8 @@ A :gem: means **really _awesome / useful_**.
 - [Revised Getting Started with SaltStack - Part 1](https://www.infracloud.io/revised-getting-started-with-saltstack-part-1/) - Simple setup and play around on the command line.
 - [SaltStack Examples](https://www.unixmen.com/saltstack-examples/) - Will teach you some of default functions in a quick way.
 - [Masterless Saltstack](https://honza.ca/2013/12/masterless-saltstack) - A simple guide on how to use SaltStack in masterless mode.
-- [Getting Started with Saltstack and salt-workspace](https://blog.badgerops.net/2017/04/10/getting-started-with-salt-workspace/) - Learning SaltStack by setting up a salt-workspace.
-- [Getting started with Salt Structure](https://blog.badgerops.net/2017/04/22/getting-started-with-salt-structure-2/) - Learn how to setup a structured SaltStack workspace.
+- [Getting Started with Saltstack and salt-workspace](https://blog.badgerops.net/getting-started-with-salt-workspace/) - Learning SaltStack by setting up a salt-workspace.
+- [Getting started with Salt Structure](https://blog.badgerops.net/getting-started-with-salt-structure-2/) - Learn how to setup a structured SaltStack workspace.
 - [Introduction to SaltStack](https://github.com/redmage123/Introduction-to-Saltstack) - A two day course designed to quickly introduce System Administrators and Application Developers on how to start using Saltstack.
 - [The Simplest Way to Learn SaltStack](https://medium.com/@timlwhite/the-simplest-way-to-learn-saltstack-cd9f5edbc967) - Start to learn the basics of SaltStack by setting it up in Docker.
 - [SaltStack - Quick Guide](https://www.tutorialspoint.com/saltstack/saltstack_quick_guide.htm) - Part of the larger "Learn SaltStack"-tutorial at Tutorials Point.
@@ -129,7 +129,7 @@ A :gem: means **really _awesome / useful_**.
 - [Using Salt like Ansible](https://duncan.codes/2016/05/18/using-salt-like-ansible.html) - How to use Salt in a way similar to Ansible.
 - [Using Salt with reclass](http://www.yet.org/2016/10/reclass/) - Use class inheritance to define nodes roles and avoid duplication.
 - [Text editor plugins for Salt states and YAML/Jinja](https://salt.tips/text-editor-plugins-for-salt-states-and-yaml-jinja/) - Covers plugins for different editors when writing Salt states.
-- [Writing a custom Salt Grain](https://blog.badgerops.net/2017/05/23/writing-a-custom-salt-grain/) - Writing a custom Salt Grain, and why you might want to.
+- [Writing a custom Salt Grain](https://blog.badgerops.net/writing-a-custom-salt-grain/) - Writing a custom Salt Grain, and why you might want to.
 - [Building Self-Healing Applications](http://bencane.com/2014/12/30/building-self-healing-applications-with-salt-api/) - Automate the detection and first action to correct errors in your infrastructure.
 - [Testing your salt states with kitchen-salt](https://blog.gtmanfred.com/kitchen-salt.html) -  Make it easy to test salt states or formulas independently of a production environment.
 - [Salt Sudo](https://medium.com/@mike.reider/using-saltstack-for-emergency-sudoers-access-tempsudo-d5417e528e4d) - Using Salt custom modules to manage sudo access for users.
