@@ -1,5 +1,4 @@
 language: ruby
-rvm: 2.6.2
 before_script:
 - gem install awesome_bot
 - gem install mdl
