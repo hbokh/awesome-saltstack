@@ -25,6 +25,7 @@ A :gem: means **really _awesome / useful_**.
 - [Formulas](#formulas)
 - [Cheat sheets](#cheat-sheets)
 - [Uncategorized](#uncategorized)
+- [Attic](#attic)
 
 ## Official resources
 
@@ -42,10 +43,6 @@ A :gem: means **really _awesome / useful_**.
 - [About SaltStack](http://www.yet.org/2016/09/salt/) - Extensive blogpost with lots of in-depth information. :gem:
 - [Managing Linux server configs with the SaltStack](https://techarena51.com/blog/getting-started-with-saltstack/) - Managing Linux server configs with the SaltStack.
 - [A dive into SaltStack](https://opencredo.com/a-dive-into-salt-stack/) - SaltStack uncovered - Configuration management has been a big leap forward for System Engineers.
-- [How To Install Salt on Ubuntu 12.04](https://www.digitalocean.com/community/tutorials/how-to-install-salt-on-ubuntu-12-04) - Part 1 of 2 in the series _An Introduction to Salt_.
-- [How To Create Your First Salt Formula](https://www.digitalocean.com/community/tutorials/how-to-create-your-first-salt-formula) - Part 2 in the series _An Introduction to Salt_.
-- [Automated Provisioning of DigitalOcean Cloud Servers with Salt Cloud on Ubuntu 12.04](https://www.digitalocean.com/community/tutorials/automated-provisioning-of-digitalocean-cloud-servers-with-salt-cloud-on-ubuntu-12-04) - Walkthrough on automated provisioning of DigitalOcean Cloud Servers with Salt Cloud on Ubuntu 12.04.
-- [How To Install and Configure Salt Master and Minion Servers on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-salt-master-and-minion-servers-on-ubuntu-14-04) - SaltStack installation walkthrough for Ubuntu 14.04.
 - [How To Use Salt Cloud Map Files to Deploy App Servers and an Nginx Reverse Proxy](https://www.digitalocean.com/community/tutorials/how-to-use-salt-cloud-map-files-to-deploy-app-servers-and-an-nginx-reverse-proxy) - Walkthrough on how to use Salt Cloud Map Files to deploy application servers and an Nginx reverse proxy.
 - [An Introduction to SaltStack Terminology and Concepts](https://www.digitalocean.com/community/tutorials/an-introduction-to-saltstack-terminology-and-concepts) - Part 1 of 6 in the series _Managing Development Environments with SaltStack_.
 - [SaltStack Infrastructure: Installing the Salt Master](https://www.digitalocean.com/community/tutorials/saltstack-infrastructure-installing-the-salt-master) - Part 2 of 6 in the series _Managing Development Environments with SaltStack_.
@@ -69,8 +66,6 @@ A :gem: means **really _awesome / useful_**.
 
 ## Code
 
-- [zulily/alkali](https://github.com/zulily/alkali) - A collections of SaltStack states and pillar data that provide just the basics for provisioning Linux instances that may be built upon.
-- [zulily/buoyant](https://github.com/zulily/buoyant) - Leverages docker to provide an alternative to VM-centric SaltStack development environments.
 - [valentin2105/Kubernetes-Saltstack](https://github.com/valentin2105/Kubernetes-Saltstack) - Saltstack recipe to deploy Kubernetes cluster from scratch.
 - [madflojo/masterless-salt-base](https://github.com/madflojo/masterless-salt-base) - Quickly bootstrap a generic(ish) Ubuntu server. One that is ready to host Docker containers.
 
@@ -96,6 +91,7 @@ A :gem: means **really _awesome / useful_**.
 - [SaltConf15 - YouTube](https://www.youtube.com/playlist?list=PL9svBjLDUl_8BqpIDKlCTqHZI2mkysTvZ) - There were more than 60 talks delivered at SaltConf15 and we recorded all of them.
 - [SaltConf16 - YouTube](https://www.youtube.com/playlist?list=PL9svBjLDUl_-sVwcRliUQ-VGDb2qvwpx_) - Video recordings of SaltConf16 presentations.
 - [SaltConf17 - YouTube](https://www.youtube.com/playlist?list=PL9svBjLDUl_-8yJxp-nSlmM9KYEQH4fgj) - Video recordings of SaltConf17 presentations delivered by SaltStack customers and partners.
+- [SaltConf18 - YouTube](https://www.youtube.com/playlist?list=PL9svBjLDUl_-wsL5HZqtTuvV80Y6dqmQE) - Video recordings of SaltConf18 presentations.
 
 ## Tools
 
@@ -169,6 +165,13 @@ A :gem: means **really _awesome / useful_**.
 
 - [Salt (software)](https://en.wikipedia.org/wiki/Salt_(software)) - Wikipedia (English).
 - [HubbleStack: Security for DevOps](https://hubblestack.io/) - Hubble is a modular, open-source security compliance framework built on top of SaltStack.
+
+## Attic
+
+- [How To Install Salt on Ubuntu 12.04](https://www.digitalocean.com/community/tutorials/how-to-install-salt-on-ubuntu-12-04) - Part 1 of 2 in the series _An Introduction to Salt_.
+- [How To Create Your First Salt Formula](https://www.digitalocean.com/community/tutorials/how-to-create-your-first-salt-formula) - Part 2 in the series _An Introduction to Salt_.
+- [Automated Provisioning of DigitalOcean Cloud Servers with Salt Cloud on Ubuntu 12.04](https://www.digitalocean.com/community/tutorials/automated-provisioning-of-digitalocean-cloud-servers-with-salt-cloud-on-ubuntu-12-04) - Walkthrough on automated provisioning of DigitalOcean Cloud Servers with Salt Cloud on Ubuntu 12.04.
+- [How To Install and Configure Salt Master and Minion Servers on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-salt-master-and-minion-servers-on-ubuntu-14-04) - SaltStack installation walkthrough for Ubuntu 14.04.
 
 ## License
 
