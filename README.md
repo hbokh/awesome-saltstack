@@ -39,7 +39,6 @@ A :gem: means **really _awesome / useful_**.
 
 ## Tutorials
 
-- [Salt - Beginners Tutorial](https://blog.talpor.com/2014/07/saltstack-beginners-tutorial/) - One of the best tutorials to get you started. :gem:
 - [About SaltStack](http://www.yet.org/2016/09/salt/) - Extensive blogpost with lots of in-depth information. :gem:
 - [Managing Linux server configs with the SaltStack](https://techarena51.com/blog/getting-started-with-saltstack/) - Managing Linux server configs with the SaltStack.
 - [A dive into SaltStack](https://opencredo.com/a-dive-into-salt-stack/) - SaltStack uncovered - Configuration management has been a big leap forward for System Engineers.
