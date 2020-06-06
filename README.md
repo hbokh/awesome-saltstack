@@ -1,4 +1,4 @@
-# Awesome SaltStack  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/hbokh/awesome-saltstack.svg?branch=develop)](https://travis-ci.org/hbokh/awesome-saltstack)
+# Awesome SaltStack  [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/2c4f4545336f50321372d7fc01e6fc7ffdd0831a/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/hbokh/awesome-saltstack.svg?branch=develop)](https://travis-ci.org/hbokh/awesome-saltstack)
 
 > A collaborative curated list of awesome SaltStack resources, tutorials and other salted stuff.
 
@@ -15,6 +15,7 @@ A :gem: means **really _awesome / useful_**.
 - [Official resources](#official-resources)
 - [Tutorials](#tutorials)
 - [Code](#code)
+- [Integrations](#integrations)
 - [Books](#books)
 - [Videos](#videos)
 - [Tools](#tools)
@@ -36,11 +37,11 @@ A :gem: means **really _awesome / useful_**.
 - [SaltStack Get Started](https://docs.saltstack.com/en/getstarted/) - These tutorials walk you through the basics of getting SaltStack up and running. :gem:
 - [Training and certification](https://www.saltstack.com/products/saltstack-training/) - Official training.
 - [Jinja2 documentation](http://jinja.pocoo.org/docs/latest/) - This official documentation covers the used templating language in Salt.
+- [Salt Module Contributions](https://github.com/saltstack/salt-contrib) - Salt modules developed by the community.
 
 ## Tutorials
 
-- [About SaltStack](http://www.yet.org/2016/09/salt/) - Extensive blogpost with lots of in-depth information. :gem:
-- [Managing Linux server configs with the SaltStack](https://techarena51.com/blog/getting-started-with-saltstack/) - Managing Linux server configs with the SaltStack.
+- [About SaltStack](https://web.archive.org/web/20190302145345/http://www.yet.org/2016/09/salt/) - Extensive blogpost with lots of in-depth information. :gem:
 - [A dive into SaltStack](https://opencredo.com/a-dive-into-salt-stack/) - SaltStack uncovered - Configuration management has been a big leap forward for System Engineers.
 - [How To Use Salt Cloud Map Files to Deploy App Servers and an Nginx Reverse Proxy](https://www.digitalocean.com/community/tutorials/how-to-use-salt-cloud-map-files-to-deploy-app-servers-and-an-nginx-reverse-proxy) - Walkthrough on how to use Salt Cloud Map Files to deploy application servers and an Nginx reverse proxy.
 - [An Introduction to SaltStack Terminology and Concepts](https://www.digitalocean.com/community/tutorials/an-introduction-to-saltstack-terminology-and-concepts) - Part 1 of 6 in the series _Managing Development Environments with SaltStack_.
@@ -67,6 +68,12 @@ A :gem: means **really _awesome / useful_**.
 
 - [valentin2105/Kubernetes-Saltstack](https://github.com/valentin2105/Kubernetes-Saltstack) - Saltstack recipe to deploy Kubernetes cluster from scratch.
 - [madflojo/masterless-salt-base](https://github.com/madflojo/masterless-salt-base) - Quickly bootstrap a generic(ish) Ubuntu server. One that is ready to host Docker containers.
+- [CDSRV/mysaltmaster](https://github.com/CDSRV/mysaltmaster) - A self contained Salt development environment.
+
+## Integrations
+
+- [Jenkins Salt API Plugin](https://plugins.jenkins.io/saltstack/) - This plugin sends a SaltStack API message as a build step.
+- [Rundeck](https://github.com/amendlik/salt-gen-resource) - Generate Rundeck node resources from the Salt Mine.
 
 ## Books
 
@@ -123,7 +130,7 @@ A :gem: means **really _awesome / useful_**.
 - [Secure Pillar in SaltStack with GPG](https://gijs.io/2017/02/28/secure-pillar-data-in-saltstack-with-gpg/) - Encrypting your pillar data can be done with GPG.
 - [Network-Automation with Salt, NAPALM and Kubernetes](http://blog.simonmetzger.de/2018/02/salt-napalm-k8s-network-automation/) - How to manage legacy devices that are not able to install software natively on themselves.
 - [Using Salt like Ansible](https://duncan.codes/2016/05/18/using-salt-like-ansible.html) - How to use Salt in a way similar to Ansible.
-- [Using Salt with reclass](http://www.yet.org/2016/10/reclass/) - Use class inheritance to define nodes roles and avoid duplication.
+- [Using Salt with reclass](https://web.archive.org/web/20180903065145/http://yet.org/2016/10/reclass/) - Use class inheritance to define nodes roles and avoid duplication.
 - [Text editor plugins for Salt states and YAML/Jinja](https://salt.tips/text-editor-plugins-for-salt-states-and-yaml-jinja/) - Covers plugins for different editors when writing Salt states.
 - [Writing a custom Salt Grain](https://blog.badgerops.net/writing-a-custom-salt-grain/) - Writing a custom Salt Grain, and why you might want to.
 - [Building Self-Healing Applications](http://bencane.com/2014/12/30/building-self-healing-applications-with-salt-api/) - Automate the detection and first action to correct errors in your infrastructure.
@@ -151,7 +158,7 @@ A :gem: means **really _awesome / useful_**.
 - [SaltStack Formulas](https://github.com/saltstack-formulas/) - A central collection of formula repositories for SaltStack.
 - [Salt Formulas](https://github.com/salt-formulas) - A community developed SaltStack formulas ecosystem.
 - [Writing SaltStack formulas](http://ryepup.unwashedmeme.com/blog/2015/03/16/writing-saltstack-formulas/) - An overview on writing SaltStack formulas.
-- [Salt Formulas](http://www.yet.org/2016/09/salt-formulas/) - In-depth blogpost about Salt Formulas. :gem:
+- [Salt Formulas](https://web.archive.org/web/20180903070620/http://yet.org/2016/09/salt-formulas/) - In-depth blogpost about Salt Formulas. :gem:
 
 ## Cheat sheets
 
