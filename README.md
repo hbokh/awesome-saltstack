@@ -1,4 +1,4 @@
-# Awesome SaltStack  [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/2c4f4545336f50321372d7fc01e6fc7ffdd0831a/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/hbokh/awesome-saltstack.svg?branch=develop)](https://travis-ci.org/hbokh/awesome-saltstack)
+# Awesome SaltStack [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Build Status](https://travis-ci.org/hbokh/awesome-saltstack.svg?branch=develop)](https://travis-ci.org/hbokh/awesome-saltstack)
 
 > A collaborative curated list of awesome SaltStack resources, tutorials and other salted stuff.
 

@@ -4,6 +4,6 @@ before_script:
 - gem install mdl
 script:
 - awesome_bot README.md --skip-save-results --allow-redirect --allow-dupe -w jinja.pocoo.org,vimeo.com # Allow duplicate links and whitelist jinja.pocoo.org
-- mdl --rules ~MD013,~MD033 README.md # Ignore line length (MD013) and inline HTML (MD033) Rules
+- mdl -v --rules ~MD013,~MD033 README.md # Ignore line length (MD013) and inline HTML (MD033) Rules
 notifications:
   email: false
