@@ -78,7 +78,6 @@ A :gem: means **really _awesome / useful_**.
 ## Books
 
 - [O'Reilly - Salt Essentials](http://shop.oreilly.com/product/0636920033240.do) by Craig Sebenik, Thomas Hatch.
-- [O'Reilly - Network Automation at Scale](https://www.cloudflare.com/network-automation-at-scale-ebook/) by Mircea Ulinic and Seth House (an ebook sponsored by Cloudflare).
 - [Leanpub - SaltStack For DevOps](https://leanpub.com/saltstackfordevops) by Aymen El Amri.
 - [Leanpub - Getting Started with SaltStack](https://leanpub.com/gettingstartedwithsaltstack) by Ben Hosmer.
 - [Packt - Learning SaltStack, 2nd ed.](https://www.packtpub.com/networking-and-servers/learning-saltstack-second-edition) by Colton Myers.
@@ -140,6 +139,7 @@ A :gem: means **really _awesome / useful_**.
 - [Vagrant Provisioning with SaltStack](https://medium.com/@Joachim8675309/vagrant-provisioning-with-saltstack-50dab12ce6c7) - Provisioning Virtual System using Masterless Salt Stack.
 - [Salt DevKit with External Formulas](https://medium.com/@Joachim8675309/salt-devkit-with-external-formulas-9e38d8b90cd7) - Local Development with Vagrant using external Salt formulas.
 - [Prometheus - Auto-deploying Consul and Exporters using Saltstack](https://yetiops.net/posts/prometheus-consul-saltstack-part-1-linux/) - How to deploy SaltStack, Consul and the Prometheus Node Exporter on Linux. :gem:
+- [Network Automation at Scale](https://mirceaulinic.net/2017-02-14-network-automation-tutorial/) - Up and running in 60 minutes.
 
 ## Discussions
 
