@@ -121,7 +121,6 @@ A :gem: means **really _awesome / useful_**.
 ## Blogposts and opinions
 
 - [Docker with SaltStack](https://opsnotice.xyz/docker-with-saltstack/) - How-to use SaltStack on a virtual cloud server based on Debian or Ubuntu.
-- [Moving away from Puppet: SaltStack or Ansible?](https://blog.ryandlane.com/2014/08/04/moving-away-from-puppet-saltstack-or-ansible/) -  Salt and Ansible as viable and excellent options for replacing Puppet.
 - [One week of Salt: frustrations and reflections](https://stevebennett.me/2014/02/17/one-week-of-salt-frustrations-and-reflections/) - First hand experiences from a Chef user.
 - [Getting started with SaltStack by example: Automatically Installing nginx](http://bencane.com/2013/09/03/getting-started-with-saltstack-by-example-automatically-installing-nginx/) - A good getting started guide for both Salt master and minions.
 - [SaltStack: Manage entries in unmanaged files with File Blockreplace](https://makina-corpus.com/blog/metier/2014/saltstack-manage-entries-in-unmanaged-files-with-file-blockreplace) - How to use the SaltStack's core `file.blockreplace`.
@@ -172,7 +171,6 @@ A :gem: means **really _awesome / useful_**.
 ## Uncategorized
 
 - [Salt (software)](https://en.wikipedia.org/wiki/Salt_(software)) - Wikipedia (English).
-- [HubbleStack: Security for DevOps](https://hubblestack.io/) - Hubble is a modular, open-source security compliance framework built on top of SaltStack.
 
 ## Attic
 
