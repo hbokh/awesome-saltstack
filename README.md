@@ -63,7 +63,7 @@ A :gem: means **really _awesome / useful_**.
 - [The Simplest Way to Learn SaltStack](https://medium.com/@timlwhite/the-simplest-way-to-learn-saltstack-cd9f5edbc967) - Start to learn the basics of SaltStack by setting it up in Docker.
 - [SaltStack - Quick Guide](https://www.tutorialspoint.com/saltstack/saltstack_quick_guide.htm) - Part of the larger "Learn SaltStack"-tutorial at Tutorials Point.
 - [Upgrading Salt to Python 3](https://salt.tips/upgrading-salt-to-python-3/) - How to switch SaltStack from Python2 to Python3.
-- [Introduction to Jinja Templates for Salt](https://www.linode.com/docs/applications/configuration-management/salt/introduction-to-jinja-templates-for-salt/) - A good reference in understanding how Jinja formatting works, along with using it in salt states.
+- [Salt Guides and Tutorials, by Linode](https://www.linode.com/docs/applications/configuration-management/salt/) - A good collection of Salt guides and tutorials created and managed by Linode.
 
 ## Code
 
