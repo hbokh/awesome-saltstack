@@ -54,7 +54,7 @@ A :gem: means **really _awesome / useful_**.
 - [Create an army of Salt minions on DigitalOcean](http://www.aaronbell.com/lets-make-salt-minions-on-digitalocean/) - Combine the simplicity of Salt with DigitalOcean's snapshot and image feature.
 - [Vagrant & SaltStack Quickstart Tutorial](https://hittaruki.info/post/vagrant-saltstack-tutorial/) - Getting started with SaltStack and Vagrant.
 - [Salt-API, A Crash Course](https://thereluctanttecchie.blogspot.com/2014/01/salt-api-crash-course.html) - Get a barebones salt-api proof of concept up and running.
-- [Revised Getting Started with SaltStack - Part 1](https://www.infracloud.io/revised-getting-started-with-saltstack-part-1/) - Simple setup and play around on the command line.
+- [Revised Getting Started with SaltStack - Part 1](https://www.infracloud.io/blog/revised-getting-started-with-saltstack-part-1/) - Simple setup and play around on the command line.
 - [SaltStack Examples](https://www.unixmen.com/saltstack-examples/) - Will teach you some of default functions in a quick way.
 - [Masterless Saltstack](https://honza.ca/2013/12/masterless-saltstack) - A simple guide on how to use SaltStack in masterless mode.
 - [Getting Started with Saltstack and salt-workspace](https://blog.badgerops.net/getting-started-with-salt-workspace/) - Learning SaltStack by setting up a salt-workspace.
@@ -69,7 +69,6 @@ A :gem: means **really _awesome / useful_**.
 
 - [valentin2105/Kubernetes-Saltstack](https://github.com/valentin2105/Kubernetes-Saltstack) - Saltstack recipe to deploy Kubernetes cluster from scratch.
 - [madflojo/masterless-salt-base](https://github.com/madflojo/masterless-salt-base) - Quickly bootstrap a generic(ish) Ubuntu server. One that is ready to host Docker containers.
-- [CDSRV/mysaltmaster](https://github.com/CDSRV/mysaltmaster) - A self contained Salt development environment.
 
 ## Integrations
 
@@ -124,7 +123,6 @@ A :gem: means **really _awesome / useful_**.
 - [One week of Salt: frustrations and reflections](https://stevebennett.me/2014/02/17/one-week-of-salt-frustrations-and-reflections/) - First hand experiences from a Chef user.
 - [Getting started with SaltStack by example: Automatically Installing nginx](http://bencane.com/2013/09/03/getting-started-with-saltstack-by-example-automatically-installing-nginx/) - A good getting started guide for both Salt master and minions.
 - [SaltStack: Manage entries in unmanaged files with File Blockreplace](https://makina-corpus.com/blog/metier/2014/saltstack-manage-entries-in-unmanaged-files-with-file-blockreplace) - How to use the SaltStack's core `file.blockreplace`.
-- [Docker Swarm 1.12 Cluster Orchestration with SaltStack](https://btmiller.com/2016/11/27/docker-swarm-1.12-cluster-orchestration-with-saltstack.html) - Let’s see how we can automate the spin-up of a cluster using SaltStack.
 - [SaltStack: Keeping Salt Pillar data encrypted using GPG](http://fabianlee.org/2016/10/18/saltstack-keeping-salt-pillar-data-encrypted-using-gpg/) - On secure encryption/decryption of pillar data.
 - [Secure Pillar in SaltStack with GPG](https://gijs.io/2017/02/28/secure-pillar-data-in-saltstack-with-gpg/) - Encrypting your pillar data can be done with GPG.
 - [Network-Automation with Salt, NAPALM and Kubernetes](http://blog.simonmetzger.de/2018/02/salt-napalm-k8s-network-automation/) - How to manage legacy devices that are not able to install software natively on themselves.
@@ -141,6 +139,7 @@ A :gem: means **really _awesome / useful_**.
 - [Prometheus - Auto-deploying Consul and Exporters using Saltstack](https://yetiops.net/posts/prometheus-consul-saltstack-part-1-linux/) - How to deploy SaltStack, Consul and the Prometheus Node Exporter on Linux. :gem:
 - [Network Automation at Scale](https://mirceaulinic.net/2017-02-14-network-automation-tutorial/) - Up and running in 60 minutes.
 - [SaltStack Overview](https://saidvandeklundert.net/2020-03-20-saltstack-overview/) - An excellent overview and introduction of Salt.
+- [Parsing Command Output in Saltstack with JC](https://blog.kellybrazil.com/2020/09/15/parsing-command-output-in-saltstack-with-jc/) - How to easily parse remote command output in SaltStack, using `jc`.
 
 ## Discussions
 
@@ -178,6 +177,7 @@ A :gem: means **really _awesome / useful_**.
 - [How To Create Your First Salt Formula](https://www.digitalocean.com/community/tutorials/how-to-create-your-first-salt-formula) - Part 2 in the series _An Introduction to Salt_.
 - [Automated Provisioning of DigitalOcean Cloud Servers with Salt Cloud on Ubuntu 12.04](https://www.digitalocean.com/community/tutorials/automated-provisioning-of-digitalocean-cloud-servers-with-salt-cloud-on-ubuntu-12-04) - Walkthrough on automated provisioning of DigitalOcean Cloud Servers with Salt Cloud on Ubuntu 12.04.
 - [How To Install and Configure Salt Master and Minion Servers on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-salt-master-and-minion-servers-on-ubuntu-14-04) - SaltStack installation walkthrough for Ubuntu 14.04.
+- [Docker Swarm 1.12 Cluster Orchestration with SaltStack](https://btmiller.com/2016/11/27/docker-swarm-1.12-cluster-orchestration-with-saltstack.html) - Let’s see how we can automate the spin-up of a cluster using SaltStack.
 
 ## License
 
