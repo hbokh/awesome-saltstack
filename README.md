@@ -1,7 +1,8 @@
-# Awesome SaltStack [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Build Status](https://travis-ci.org/hbokh/awesome-saltstack.svg?branch=develop)](https://travis-ci.org/hbokh/awesome-saltstack)
+# Awesome SaltStack [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A collaborative curated list of awesome SaltStack resources, tutorials and other salted stuff.
 
+<!--lint ignore double-link-->
 [<img src="https://user-images.githubusercontent.com/519955/35341388-d8c0cf0e-0125-11e8-9831-51f13fab58c7.jpg" width="100%">](https://www.saltstack.com/)
 
 SaltStack is the other configuration management system built with Python.\
@@ -30,10 +31,12 @@ A :gem: means **really _awesome / useful_**.
 
 ## Official resources
 
+<!--lint ignore double-link-->
 - [SaltStack site](https://www.saltstack.com/) - Company website.
 - [GitHub repo](https://github.com/saltstack/salt) - Salt's source code, issues discussion and collaboration.
 - [SaltStack Documentation](https://docs.saltstack.com/en/latest/) - Official documentation.
 - [Salt in 10 minutes](https://docs.saltstack.com/en/latest/topics/tutorials/walkthrough.html) - Official walkthrough.
+<!--lint ignore awesome-list-item-->
 - [SaltStack Get Started](https://docs.saltstack.com/en/getstarted/) - These tutorials walk you through the basics of getting SaltStack up and running. :gem:
 - [Training and certification](https://www.saltstack.com/products/saltstack-training/) - Official training.
 - [Jinja2 documentation](http://jinja.pocoo.org/docs/latest/) - This official documentation covers the used templating language in Salt.
@@ -41,6 +44,7 @@ A :gem: means **really _awesome / useful_**.
 
 ## Tutorials
 
+<!--lint ignore awesome-list-item-->
 - [About SaltStack](https://web.archive.org/web/20190302145345/http://www.yet.org/2016/09/salt/) - Extensive blogpost with lots of in-depth information. :gem:
 - [A dive into SaltStack](https://opencredo.com/a-dive-into-salt-stack/) - SaltStack uncovered - Configuration management has been a big leap forward for System Engineers.
 - [How To Use Salt Cloud Map Files to Deploy App Servers and an Nginx Reverse Proxy](https://www.digitalocean.com/community/tutorials/how-to-use-salt-cloud-map-files-to-deploy-app-servers-and-an-nginx-reverse-proxy) - Walkthrough on how to use Salt Cloud Map Files to deploy application servers and an Nginx reverse proxy.
@@ -77,16 +81,17 @@ A :gem: means **really _awesome / useful_**.
 
 ## Books
 
-- [O'Reilly - Salt Essentials](http://shop.oreilly.com/product/0636920033240.do) by Craig Sebenik, Thomas Hatch.
-- [Leanpub - SaltStack For DevOps](https://leanpub.com/saltstackfordevops) by Aymen El Amri.
-- [Leanpub - Getting Started with SaltStack](https://leanpub.com/gettingstartedwithsaltstack) by Ben Hosmer.
-- [Packt - Learning SaltStack, 2nd ed.](https://www.packtpub.com/networking-and-servers/learning-saltstack-second-edition) by Colton Myers.
-- [Packt - Mastering SaltStack, 2nd ed.](https://www.packtpub.com/networking-and-servers/mastering-saltstack-second-edition) by Joseph Hall.
-- [Packt - Extending SaltStack](https://www.packtpub.com/networking-and-servers/extending-saltstack) by Joseph Hall.
-- [Packt - Salt Cookbook](https://www.packtpub.com/networking-and-servers/salt-cookbook) by Anirban Saha.
+- [O'Reilly - Salt Essentials](http://shop.oreilly.com/product/0636920033240.do) - By Craig Sebenik, Thomas Hatch.
+- [Leanpub - SaltStack For DevOps](https://leanpub.com/saltstackfordevops) - By Aymen El Amri.
+- [Leanpub - Getting Started with SaltStack](https://leanpub.com/gettingstartedwithsaltstack) - By Ben Hosmer.
+- [Packt - Learning SaltStack, 2nd ed.](https://www.packtpub.com/networking-and-servers/learning-saltstack-second-edition) - By Colton Myers.
+- [Packt - Mastering SaltStack, 2nd ed.](https://www.packtpub.com/networking-and-servers/mastering-saltstack-second-edition) - By Joseph Hall.
+- [Packt - Extending SaltStack](https://www.packtpub.com/networking-and-servers/extending-saltstack) - By Joseph Hall.
+- [Packt - Salt Cookbook](https://www.packtpub.com/networking-and-servers/salt-cookbook) - By Anirban Saha.
 
 ## Videos
 
+<!--lint ignore awesome-list-item-->
 - [SaltStack](https://www.youtube.com/user/saltstack) - SaltStack's official YouTube channel.
 - [Managing Your Infrastructure with SaltStack](https://www.youtube.com/watch?v=y-zQUqMHRX4&t=35s) - PyCon 2015 - April 11, 2015 - Colton Myers.
 - [Testing Salt States with Docker](https://www.youtube.com/watch?v=_xO7wj19OzI) - SaltStack PDX - June 23, 2015 - Jason Denning.
@@ -111,10 +116,10 @@ A :gem: means **really _awesome / useful_**.
 
 ## Presentations
 
-- [Getting Started with SaltStack](https://speakerdeck.com/pycon2014/getting-started-with-saltstack-by-peter-baumgartner) - by Peter Baumgartner.
-- [An introduction to infrastructure management with SaltStack](https://www.slideshare.net/saltstack/an-overvisaltstack-presentation-clean) - by Aurelien Geron.
-- [Saltpad: A SaltStack Web GUI](https://speakerdeck.com/lothiraldan/saltpad-a-saltstack-web-gui) - by Boris Feld.
-- [Intro to SaltStack](http://www.justincarmony.com/slides/salt-tutorial/) - by Justin Carmony.
+- [Getting Started with SaltStack](https://speakerdeck.com/pycon2014/getting-started-with-saltstack-by-peter-baumgartner) - By Peter Baumgartner.
+- [An introduction to infrastructure management with SaltStack](https://www.slideshare.net/saltstack/an-overvisaltstack-presentation-clean) - By Aurelien Geron.
+- [Saltpad: A SaltStack Web GUI](https://speakerdeck.com/lothiraldan/saltpad-a-saltstack-web-gui) - By Boris Feld.
+- [Intro to SaltStack](http://www.justincarmony.com/slides/salt-tutorial/) - By Justin Carmony.
 - [salt-deconstructed](http://salt-decon.carson-anderson.com/) - Video and presentation (slides & PDF) by Carson Anderson.
 
 ## Blogposts and opinions
@@ -133,9 +138,10 @@ A :gem: means **really _awesome / useful_**.
 - [Building Self-Healing Applications](http://bencane.com/2014/12/30/building-self-healing-applications-with-salt-api/) - Automate the detection and first action to correct errors in your infrastructure.
 - [Testing your salt states with kitchen-salt](https://blog.gtmanfred.com/kitchen-salt.html) -  Make it easy to test salt states or formulas independently of a production environment.
 - [Salt Sudo](https://medium.com/@mike.reider/using-saltstack-for-emergency-sudoers-access-tempsudo-d5417e528e4d) - Using Salt custom modules to manage sudo access for users.
-- [Complex User management with Saltstack (using Py! renderer)](https://medium.com/@mike.reider/complex-user-management-with-saltstack-using-py-renderer-a4caa5cf229a) - Using a centralized User YAML file that contains all users’ data.
+- [Complex User management with Saltstack (using Py! renderer)](https://medium.com/@mike.reider/complex-user-management-with-saltstack-using-py-renderer-a4caa5cf229a) - Using a centralized User YAML file that contains all users' data.
 - [Vagrant Provisioning with SaltStack](https://medium.com/@Joachim8675309/vagrant-provisioning-with-saltstack-50dab12ce6c7) - Provisioning Virtual System using Masterless Salt Stack.
 - [Salt DevKit with External Formulas](https://medium.com/@Joachim8675309/salt-devkit-with-external-formulas-9e38d8b90cd7) - Local Development with Vagrant using external Salt formulas.
+<!--lint ignore awesome-list-item-->
 - [Prometheus - Auto-deploying Consul and Exporters using Saltstack](https://yetiops.net/posts/prometheus-consul-saltstack-part-1-linux/) - How to deploy SaltStack, Consul and the Prometheus Node Exporter on Linux. :gem:
 - [Network Automation at Scale](https://mirceaulinic.net/2017-02-14-network-automation-tutorial/) - Up and running in 60 minutes.
 - [SaltStack Overview](https://saidvandeklundert.net/2020-03-20-saltstack-overview/) - An excellent overview and introduction of Salt.
@@ -143,6 +149,7 @@ A :gem: means **really _awesome / useful_**.
 
 ## Discussions
 
+<!--lint ignore no-repeat-punctuation-->
 - [Reddit: Vagrat, SaltStack, Ansible, Docker, Chef, Puppet, Packer.. Something](https://www.reddit.com/r/sysadmin/comments/2fmkvq/vagrat_saltstack_ansible_docker_chef_puppet/) - Discussion on Reddit, started Sept. 2014 in `/r/sysadmin`.
 
 ## Community
@@ -159,11 +166,12 @@ A :gem: means **really _awesome / useful_**.
 - [SaltStack Formulas](https://github.com/saltstack-formulas/) - A central collection of formula repositories for SaltStack.
 - [Salt Formulas](https://github.com/salt-formulas) - A community developed SaltStack formulas ecosystem.
 - [Writing SaltStack formulas](http://ryepup.unwashedmeme.com/blog/2015/03/16/writing-saltstack-formulas/) - An overview on writing SaltStack formulas.
-- [Salt Formulas](https://web.archive.org/web/20180903070620/http://yet.org/2016/09/salt-formulas/) - In-depth blogpost about Salt Formulas. :gem:
+<!--lint ignore awesome-list-item-->
+- [Salt Formulas](https://web.archive.org/web/20180903070620/http://yet.org/2016/09/salt-formulas/) In-depth blogpost about Salt Formulas. :gem:
 
 ## Cheat sheets
 
-- [SaltStack Cheat Sheet Plus](https://github.com/fmdlc/saltstack-cheatsheet) - by Facu de la Cruz.
+- [SaltStack Cheat Sheet Plus](https://github.com/fmdlc/saltstack-cheatsheet) - By Facu de la Cruz.
 - [Salt Commands cheat sheet](https://sites.google.com/site/mrxpalmeiras/saltstack/salt-cheat-sheet) - List of common Salt commands.
 - [SaltStack Wiki](https://github.com/saltstack/salt/wiki/Cheat-Sheet) - Cheat sheet in the SaltStack GitHub Wiki.
 
@@ -177,10 +185,4 @@ A :gem: means **really _awesome / useful_**.
 - [How To Create Your First Salt Formula](https://www.digitalocean.com/community/tutorials/how-to-create-your-first-salt-formula) - Part 2 in the series _An Introduction to Salt_.
 - [Automated Provisioning of DigitalOcean Cloud Servers with Salt Cloud on Ubuntu 12.04](https://www.digitalocean.com/community/tutorials/automated-provisioning-of-digitalocean-cloud-servers-with-salt-cloud-on-ubuntu-12-04) - Walkthrough on automated provisioning of DigitalOcean Cloud Servers with Salt Cloud on Ubuntu 12.04.
 - [How To Install and Configure Salt Master and Minion Servers on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-salt-master-and-minion-servers-on-ubuntu-14-04) - SaltStack installation walkthrough for Ubuntu 14.04.
-- [Docker Swarm 1.12 Cluster Orchestration with SaltStack](https://btmiller.com/2016/11/27/docker-swarm-1.12-cluster-orchestration-with-saltstack.html) - Let’s see how we can automate the spin-up of a cluster using SaltStack.
-
-## License
-
-[![CC0](https://camo.githubusercontent.com/60561947585c982aee67ed3e3b25388184cc0aa3/687474703a2f2f6d6972726f72732e6372656174697665636f6d6d6f6e732e6f72672f70726573736b69742f627574746f6e732f38387833312f7376672f63632d7a65726f2e737667)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Henk](https://hbokh.github.io/) has waived all copyright and related or neighboring rights to this work.
+- [Docker Swarm 1.12 Cluster Orchestration with SaltStack](https://btmiller.com/2016/11/27/docker-swarm-1.12-cluster-orchestration-with-saltstack.html) - Let's see how we can automate the spin-up of a cluster using SaltStack.
