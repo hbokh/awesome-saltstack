@@ -82,7 +82,7 @@ A :gem: means **really _awesome / useful_**.
 ## Books
 
 - [O'Reilly - Salt Essentials](http://shop.oreilly.com/product/0636920033240.do) - By Craig Sebenik, Thomas Hatch.
-- [O'Reilly - Network Automation at Scale](https://www.cloudflare.com/network-automation-at-scale-ebook/) by Mircea Ulinic and Seth House (an ebook sponsored by Cloudflare).
+- [O'Reilly - Network Automation at Scale](https://www.cloudflare.com/network-automation-at-scale-ebook/) - by Mircea Ulinic and Seth House (an ebook sponsored by Cloudflare).
 - [Leanpub - SaltStack For DevOps](https://leanpub.com/saltstackfordevops) - By Aymen El Amri.
 - [Leanpub - Getting Started with SaltStack](https://leanpub.com/gettingstartedwithsaltstack) - By Ben Hosmer.
 - [Packt - Learning SaltStack, 2nd ed.](https://www.packtpub.com/networking-and-servers/learning-saltstack-second-edition) - By Colton Myers.
@@ -158,9 +158,9 @@ A :gem: means **really _awesome / useful_**.
 ## Community
 
 - [Salt IRC chat](http://webchat.freenode.net/?channels=salt&uio=Mj10cnVlJjk9dHJ1ZSYxMD10cnVl83) - IRC about Salt on Freenode.
-- [SaltStack Community Slack](https://saltstackcommunity.slack.com/) - Official SaltStack Slack Community ([Signup Link](https://saltstackcommunity.herokuapp.com))
-- [#saltstack on Network to Code Slack](https://networktocode.slack.com/archives/C0NL8RRMX) - #saltstack channel on Network To Code Slack ([Signup Link](https://networktocode.herokuapp.com/))
-- [#saltstack on VMware {code} Community Slack](https://vmwarecode.slack.com/archives/C01CASFRWG0) - #saltstack channel on VMware {code} Community Slack ([Signup Link](https://code.vmware.com/web/code/join)
+- [SaltStack Community Slack](https://saltstackcommunity.slack.com/) - Official SaltStack Slack Community ([Signup Link](https://saltstackcommunity.herokuapp.com)).
+- [#saltstack on Network to Code Slack](https://networktocode.slack.com/archives/C0NL8RRMX) - #saltstack channel on Network To Code Slack ([Signup Link](https://networktocode.herokuapp.com/)).
+- [#saltstack on VMware {code} Community Slack](https://vmwarecode.slack.com/archives/C01CASFRWG0) - #saltstack channel on VMware {code} Community Slack ([Signup Link](https://code.vmware.com/web/code/join).
 - [Twitter feed](https://twitter.com/saltstack) - Official Twitter account.
 - [Mailing list](https://groups.google.com/forum/#!forum/salt-users) - Salt-users mailinglist on Google Groups.
 - [SaltStack Meetups](https://www.meetup.com/pro/saltstack/) - Worldwide Meetup groups.
