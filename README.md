@@ -158,7 +158,7 @@ A :gem: means **really _awesome / useful_**.
 ## Community
 
 - [Salt IRC chat](http://webchat.freenode.net/?channels=salt&uio=Mj10cnVlJjk9dHJ1ZSYxMD10cnVl83) - IRC about Salt on Freenode.
-- [SaltStack Slack](https://saltstackcommunity.herokuapp.com) - Official SaltStack Slack Community
+- [SaltStack Community Slack](https://saltstackcommunity.slack.com/) - Official SaltStack Slack Community ([Signup Link](https://saltstackcommunity.herokuapp.com))
 - [Twitter feed](https://twitter.com/saltstack) - Official Twitter account.
 - [Mailing list](https://groups.google.com/forum/#!forum/salt-users) - Salt-users mailinglist on Google Groups.
 - [SaltStack Meetups](https://www.meetup.com/pro/saltstack/) - Worldwide Meetup groups.
