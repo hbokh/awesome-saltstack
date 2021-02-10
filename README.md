@@ -37,10 +37,10 @@ A :gem: means **really _awesome / useful_**.
 - [vRealize Automation SaltStack Config](https://www.vmware.com/products/vrealize-automation/saltstack-config.html) - vRealize Automation SaltStack Config website at VMware (new name for commercial SaltStack product).
 - [GitHub repo](https://github.com/saltstack/salt) - Salt's source code, issues discussion and collaboration.
 - [GitLab repo](https://gitlab.com/saltstack/open) - Salt Project's eventual new home.
-- [SaltStack Documentation](https://docs.saltstack.com/en/latest/) - Official documentation.
-- [Salt in 10 minutes](https://docs.saltstack.com/en/latest/topics/tutorials/walkthrough.html) - Official walkthrough.
+- [SaltStack Documentation](https://docs.saltproject.io/en/latest/) - Official documentation.
+- [Salt in 10 minutes](https://docs.saltproject.io/en/latest/topics/tutorials/walkthrough.html) - Official walkthrough.
 <!--lint ignore awesome-list-item-->
-- [SaltStack Get Started](https://docs.saltstack.com/en/getstarted/) - These tutorials walk you through the basics of getting SaltStack up and running. :gem:
+- [SaltStack Get Started](https://docs.saltproject.io/en/getstarted/) - These tutorials walk you through the basics of getting SaltStack up and running. :gem:
 - [Training and certification](https://www.saltstack.com/products/saltstack-training/) - Official training.
 - [Jinja2 documentation](http://jinja.pocoo.org/docs/latest/) - This official documentation covers the used templating language in Salt.
 - [Salt Module Contributions](https://github.com/saltstack/salt-contrib) - Salt modules developed by the community.
