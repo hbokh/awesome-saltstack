@@ -168,7 +168,7 @@ A :gem: means **really _awesome / useful_**.
 - [Mailing list](https://groups.google.com/forum/#!forum/salt-users) - Salt-users mailinglist on Google Groups.
 - [SaltStack Meetups](https://www.meetup.com/pro/saltstack/) - Worldwide Meetup groups.
 - [SaltConf](https://saltconf.com/) - Annual user conference for SaltStack customers, users, partners, developers and community members.
-- [Facebook](https://www.facebook.com/SaltStack/) - Official Facebook account.
+- [Facebook](https://www.facebook.com/SaltProjectOS/) - Official Salt Project Facebook account.
 
 ## Formulas
 
