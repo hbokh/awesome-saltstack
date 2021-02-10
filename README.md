@@ -33,6 +33,8 @@ A :gem: means **really _awesome / useful_**.
 
 <!--lint ignore double-link-->
 - [SaltStack site](https://www.saltstack.com/) - Company website.
+- [Salt Project site](https://saltproject.io/) - Salt Project (Salt Open Source) website.
+- [vRealize Automation SaltStack Config](https://www.vmware.com/products/vrealize-automation/saltstack-config.html) - vRealize Automation SaltStack Config website at VMware (new name for commercial SaltStack product).
 - [GitHub repo](https://github.com/saltstack/salt) - Salt's source code, issues discussion and collaboration.
 - [SaltStack Documentation](https://docs.saltstack.com/en/latest/) - Official documentation.
 - [Salt in 10 minutes](https://docs.saltstack.com/en/latest/topics/tutorials/walkthrough.html) - Official walkthrough.
