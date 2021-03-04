@@ -34,4 +34,4 @@ jobs:
         dpkg -i brok-1.1.0_x86-64-linux.deb
     - name: Run brok
       run: |
-        brok README.md > /dev/null
+        brok --ignore $(cat .brokignore) README.md > /dev/null
