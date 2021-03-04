@@ -2,7 +2,7 @@ name: URL Validation
 on: [push, pull_request]
 jobs:
   URL_Validator:
-    name: Run brok Against Salt
+    name: Run brok Against URLs
 
     runs-on: ubuntu-latest
 
