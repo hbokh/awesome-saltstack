@@ -48,7 +48,7 @@ A :gem: means **really _awesome / useful_**.
 ## Tutorials
 
 <!--lint ignore awesome-list-item-->
-- [About SaltStack](https://web.archive.org/web/20190302145345/http://www.yet.org/2016/09/salt/) - Extensive blogpost with lots of in-depth information. :gem:
+- [About SaltStack](http://www.yet.org/2016/09/salt/) - Extensive blogpost with lots of in-depth information. :gem:
 - [A dive into SaltStack](https://opencredo.com/a-dive-into-salt-stack/) - SaltStack uncovered - Configuration management has been a big leap forward for System Engineers.
 - [How To Use Salt Cloud Map Files to Deploy App Servers and an Nginx Reverse Proxy](https://www.digitalocean.com/community/tutorials/how-to-use-salt-cloud-map-files-to-deploy-app-servers-and-an-nginx-reverse-proxy) - Walkthrough on how to use Salt Cloud Map Files to deploy application servers and an Nginx reverse proxy.
 - [An Introduction to SaltStack Terminology and Concepts](https://www.digitalocean.com/community/tutorials/an-introduction-to-saltstack-terminology-and-concepts) - Part 1 of 6 in the series _Managing Development Environments with SaltStack_.
@@ -138,7 +138,7 @@ A :gem: means **really _awesome / useful_**.
 - [Secure Pillar in SaltStack with GPG](https://gijs.io/2017/02/28/secure-pillar-data-in-saltstack-with-gpg/) - Encrypting your pillar data can be done with GPG.
 - [Network-Automation with Salt, NAPALM and Kubernetes](http://blog.simonmetzger.de/2018/02/salt-napalm-k8s-network-automation/) - How to manage legacy devices that are not able to install software natively on themselves.
 - [Using Salt like Ansible](https://duncan.codes/2016/05/18/using-salt-like-ansible.html) - How to use Salt in a way similar to Ansible.
-- [Using Salt with reclass](https://web.archive.org/web/20180903065145/http://yet.org/2016/10/reclass/) - Use class inheritance to define nodes roles and avoid duplication.
+- [Using Salt with reclass](http://www.yet.org/2016/10/reclass/) - Use class inheritance to define nodes roles and avoid duplication.
 - [Text editor plugins for Salt states and YAML/Jinja](https://salt.tips/text-editor-plugins-for-salt-states-and-yaml-jinja/) - Covers plugins for different editors when writing Salt states.
 - [Writing a custom Salt Grain](https://blog.badgerops.net/writing-a-custom-salt-grain/) - Writing a custom Salt Grain, and why you might want to.
 - [Building Self-Healing Applications](http://bencane.com/2014/12/30/building-self-healing-applications-with-salt-api/) - Automate the detection and first action to correct errors in your infrastructure.
@@ -176,7 +176,7 @@ A :gem: means **really _awesome / useful_**.
 - [Salt Formulas](https://github.com/salt-formulas) - A community developed SaltStack formulas ecosystem.
 - [Writing SaltStack formulas](http://ryepup.unwashedmeme.com/blog/2015/03/16/writing-saltstack-formulas/) - An overview on writing SaltStack formulas.
 <!--lint ignore awesome-list-item-->
-- [Salt Formulas](https://web.archive.org/web/20180903070620/http://yet.org/2016/09/salt-formulas/) In-depth blogpost about Salt Formulas. :gem:
+- [Salt Formulas](http://www.yet.org/2016/09/salt-formulas/) In-depth blogpost about Salt Formulas. :gem:
 
 ## Cheat sheets
 
