@@ -2,6 +2,8 @@
 
 > A collaborative curated list of awesome Salt Project resources, tutorials and other salted stuff.
 
+> **NOTE: A bookmark file is available with all of these links, ready for import into your web browser. Download the `awesome-saltstack-bookmarks.html` file from the root of this repo!**
+
 <!--lint ignore double-link-->
 [<img src="https://gitlab.com/saltstack/open/salt-branding-guide/-/raw/master/logos/SaltProject_altlogo_teal.png" width="100%">](https://saltproject.io/)
 
