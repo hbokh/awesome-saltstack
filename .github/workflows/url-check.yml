@@ -1,4 +1,4 @@
-name: CI
+name: URL Validation
 on: [push, pull_request]
 jobs:
   URL_Validator:
