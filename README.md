@@ -97,6 +97,7 @@ A :gem: means **really _awesome / useful_**.
 
 <!--lint ignore awesome-list-item-->
 - [SaltStack](https://www.youtube.com/user/saltstack) - SaltStack's official YouTube channel.
+- [Salt Project on Twitch](https://www.twitch.tv/saltprojectoss) - Salt Project's official Twitch channel.
 - [Managing Your Infrastructure with SaltStack](https://www.youtube.com/watch?v=y-zQUqMHRX4&t=35s) - PyCon 2015 - April 11, 2015 - Colton Myers.
 - [Testing Salt States with Docker](https://www.youtube.com/watch?v=_xO7wj19OzI) - SaltStack PDX - June 23, 2015 - Jason Denning.
 - [Beyond Configuration Management with SaltStack for Event-Driven Infrastructure](https://www.youtube.com/watch?v=cMCH6EizVVc) - Southern California Linux Expo - January 23, 2016 - David Boucha.
