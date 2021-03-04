@@ -1,13 +1,13 @@
 # Awesome SaltStack [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A collaborative curated list of awesome SaltStack resources, tutorials and other salted stuff.
+> A collaborative curated list of awesome Salt Project resources, tutorials and other salted stuff.
 
 <!--lint ignore double-link-->
-[<img src="https://user-images.githubusercontent.com/519955/35341388-d8c0cf0e-0125-11e8-9831-51f13fab58c7.jpg" width="100%">](https://www.saltstack.com/)
+[<img src="https://gitlab.com/saltstack/open/salt-branding-guide/-/raw/master/logos/SaltProject_altlogo_teal.png" width="100%">](https://saltproject.io/)
 
-SaltStack is the other configuration management system built with Python.\
+Salt is the other configuration management system built with Python.\
 It takes a new approach to infrastructure management by developing software that is easy enough to get running in seconds, scalable enough to manage tens of thousands of servers, and fast enough to control and communicate with them in milliseconds.\
-SaltStack software manages system infrastructure and the application stacks that run on it and is used by web-scale application developers, DevOps teams and systems administrators.
+Salt manages system infrastructure and the application stacks that run on it and is used by web-scale application developers, DevOps teams and systems administrators.
 
 A :gem: means **really _awesome / useful_**.
 
