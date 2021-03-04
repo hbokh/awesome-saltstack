@@ -70,7 +70,7 @@ A :gem: means **really _awesome / useful_**.
 - [The Simplest Way to Learn SaltStack](https://medium.com/@timlwhite/the-simplest-way-to-learn-saltstack-cd9f5edbc967) - Start to learn the basics of SaltStack by setting it up in Docker.
 - [SaltStack - Quick Guide](https://www.tutorialspoint.com/saltstack/saltstack_quick_guide.htm) - Part of the larger "Learn SaltStack"-tutorial at Tutorials Point.
 - [Upgrading Salt to Python 3](https://salt.tips/upgrading-salt-to-python-3/) - How to switch SaltStack from Python2 to Python3.
-- [Salt Guides and Tutorials, by Linode](https://www.linode.com/docs/applications/configuration-management/salt/) - A good collection of Salt guides and tutorials created and managed by Linode.
+- [Salt Guides and Tutorials, by Linode](https://www.linode.com/docs/guides/applications/configuration-management/salt/) - A good collection of Salt guides and tutorials created and managed by Linode.
 
 ## Code
 
@@ -168,7 +168,7 @@ A :gem: means **really _awesome / useful_**.
 - [Mailing list](https://groups.google.com/forum/#!forum/salt-users) - Salt-users mailinglist on Google Groups.
 - [SaltStack Meetups](https://www.meetup.com/pro/saltstack/) - Worldwide Meetup groups.
 - [SaltConf](https://saltconf.com/) - Annual user conference for SaltStack customers, users, partners, developers and community members.
-- [Facebook](https://www.facebook.com/SaltProjectOS/) - Official Salt Project Facebook account.
+- [Facebook](https://www.facebook.com/SaltProjectOSS/) - Official Salt Project Facebook account.
 
 ## Formulas
 
