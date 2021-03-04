@@ -1,4 +1,4 @@
-## 
+##
 # Create importable bookmarks file
 ##
 
@@ -28,7 +28,7 @@ bookmark_file='awesome-saltstack-bookmarks.html'
 
 ###
 ### RUN THROUGH README.md
-### 
+###
 with open('README.md') as rf:
    raw_readme_strings = rf.readlines()
 
@@ -53,8 +53,9 @@ for subdir, index in subdirs.items():
             break
 
 # Finish bookmark content
-bookmarks_content.append('        </DL><p>\n    </DL><p>\n</DL>')
+bookmarks_content.append('        </DL><p>\n    </DL><p>\n</DL>\n')
 
 # Write bookmark file
-with open(bookmark_file, "w") as bh: 
+with open(bookmark_file, "w") as bh:
     bh.writelines(bookmarks_content)
+
