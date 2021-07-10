@@ -63,7 +63,6 @@ A :gem: means **really _awesome / useful_**.
 - [Salt-API, A Crash Course](https://thereluctanttecchie.blogspot.com/2014/01/salt-api-crash-course.html) - Get a barebones salt-api proof of concept up and running.
 - [Revised Getting Started with SaltStack - Part 1](https://www.infracloud.io/blog/revised-getting-started-with-saltstack-part-1/) - Simple setup and play around on the command line.
 - [SaltStack Examples](https://www.unixmen.com/saltstack-examples/) - Will teach you some of default functions in a quick way.
-- [Masterless Saltstack](https://honza.ca/2013/12/masterless-saltstack) - A simple guide on how to use SaltStack in masterless mode.
 - [Getting Started with Saltstack and salt-workspace](https://blog.badgerops.net/getting-started-with-salt-workspace/) - Learning SaltStack by setting up a salt-workspace.
 - [Getting started with Salt Structure](https://blog.badgerops.net/getting-started-with-salt-structure-2/) - Learn how to setup a structured SaltStack workspace.
 - [Introduction to SaltStack](https://github.com/redmage123/Introduction-to-Saltstack) - A two day course designed to quickly introduce System Administrators and Application Developers on how to start using Saltstack.
