@@ -1,21 +1,46 @@
-# Awesome SaltStack [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
 
-> A collaborative curated list of awesome Salt Project resources, tutorials and other salted stuff.
+<!-- title -->
 
-> **NOTE: A bookmark file is available with all of these links, ready for import into your web browser. Download the `awesome-saltstack-bookmarks.html` file from the root of this repo!**
+<!--lint ignore no-dead-urls-->
+# Awesome Salt Project
 
-<!--lint ignore double-link-->
-[<img src="https://gitlab.com/saltstack/open/salt-branding-guide/-/raw/master/logos/SaltProject_altlogo_teal.png" width="100%">](https://saltproject.io/)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://github.com/scriptautomate/awesome-saltproject/blob/main/LICENSE)
+[![lint](https://github.com/scriptautomate/awesome-saltproject/actions/workflows/lint.yaml/badge.svg)](https://github.com/scriptautomate/awesome-saltproject/actions/workflows/lint.yaml)
 
-Salt is the other configuration management system built with Python.\
-It takes a new approach to infrastructure management by developing software that is easy enough to get running in seconds, scalable enough to manage tens of thousands of servers, and fast enough to control and communicate with them in milliseconds.\
-Salt manages system infrastructure and the application stacks that run on it and is used by web-scale application developers, DevOps teams and systems administrators.
+<!-- subtitle -->
 
-A :gem: means **really _awesome / useful_**.
+A collaborative curated list of awesome Salt Project resources, tutorials and other salted stuff.
+
+<!-- image -->
+
+<a href="" target="_blank" rel="noopener noreferrer">
+  <img src="https://gitlab.com/saltstack/open/salt-branding-guide/-/raw/master/logos/SaltProject_altlogo_teal.png" width=70%/>
+</a>
+
+<!-- description -->
+
+[![Follow SaltStack on Twitter](https://img.shields.io/twitter/follow/Salt_Project_OS?style=social)](https://twitter.com/intent/follow?screen_name=Salt_Project_OS)
+[![Salt Project on YouTube](https://img.shields.io/youtube/channel/subscribers/UCpveTIucFx9ljGelW63-BWg?style=social)](https://link.dendron.so/youtube)
+[![Salt Project on Slack](https://img.shields.io/badge/slack-@saltstackcommunity-blue.svg?logo=slack&color=purple&style=flat-square)](https://join.slack.com/t/saltstackcommunity/shared_invite/zt-3av8jjyf-oBQ2M0vhXOhJpNpRkPWBvg)
+[![Salt Project on Reddit](https://img.shields.io/reddit/subreddit-subscribers/saltstack?style=social)](https://www.reddit.com/r/saltstack/)
+[![Salt Project on Twitch](https://img.shields.io/twitch/status/saltprojectoss)](https://www.twitch.tv/saltprojectoss)
+
+Built on python, Salt uses simple and human-readable YAML combined with event-driven automation to deploy and configure complex IT systems. In addition to leveling-up [vRealize Automation SaltStack Config](https://www.vmware.com/products/vrealize-automation/saltstack-config.html), Salt can be found under the hood of products from Juniper, Cisco, Cloudflare, Nutanix, SUSE, and Tieto, to name a few.
+
+[SaltStack, the company, was acquired by VMware in 2020](https://www.vmware.com/company/acquisitions/saltstack.html). Salt Project remains an open source ecosystem that VMware supports and contributes to.
+
+</div>
+
+<!-- toc -->
 
 ## Contents
 
+> **NOTE: A bookmark file is available with all of these links, ready for import into your web browser. Download the `awesome-saltproject-bookmarks.html` file from the root of this repo!**
+
 - [Official resources](#official-resources)
+- [Related Documentation](#related-documentation)
 - [Tutorials](#tutorials)
 - [Code](#code)
 - [Integrations](#integrations)
@@ -31,21 +56,20 @@ A :gem: means **really _awesome / useful_**.
 - [Uncategorized](#uncategorized)
 - [Attic](#attic)
 
-## Official resources
+## Official Resources
 
 <!--lint ignore double-link-->
-- [SaltStack site](https://www.saltstack.com/) - Company website.
 - [Salt Project site](https://saltproject.io/) - Salt Project (Salt Open Source) website.
+- [`salt` GitHub repo](https://github.com/saltstack/salt) - Salt's source code, issues discussion and collaboration.
+- [Salt Project User Guide](https://docs.saltproject.io/en/getstarted/) - These tutorials walk you through the basics of getting SaltStack up and running.
+- [Salt Project Install Guide](https://docs.saltproject.io/en/getstarted/) - These tutorials walk you through the basics of getting SaltStack up and running.
+- [Salt Project Reference Documentation](https://docs.saltproject.io/en/latest/contents.html) - Official home page of reference documentation.
+- [Salt Project Package Repository](https://repo.saltproject.io/) - Where `salt` packages are officially stored and distributed.
 - [vRealize Automation SaltStack Config](https://www.vmware.com/products/vrealize-automation/saltstack-config.html) - vRealize Automation SaltStack Config website at VMware (new name for commercial SaltStack product).
-- [GitHub repo](https://github.com/saltstack/salt) - Salt's source code, issues discussion and collaboration.
-- [GitLab repo](https://gitlab.com/saltstack/open) - Salt Project's eventual new home.
-- [SaltStack Documentation](https://docs.saltproject.io/en/latest/) - Official documentation.
-- [Salt in 10 minutes](https://docs.saltproject.io/en/latest/topics/tutorials/walkthrough.html) - Official walkthrough.
-<!--lint ignore awesome-list-item-->
-- [SaltStack Get Started](https://docs.saltproject.io/en/getstarted/) - These tutorials walk you through the basics of getting SaltStack up and running. :gem:
-- [Training and certification](https://www.saltstack.com/products/saltstack-training/) - Official training.
+
+## Related Documentation
+
 - [Jinja2 documentation](http://jinja.pocoo.org/docs/latest/) - This official documentation covers the used templating language in Salt.
-- [Salt Module Contributions](https://github.com/saltstack/salt-contrib) - Salt modules developed by the community.
 
 ## Tutorials
 

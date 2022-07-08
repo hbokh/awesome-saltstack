@@ -24,7 +24,7 @@ bookmarks_content.extend([
 # Templates for header/subdirs and links/bookmarks
 subdir_template='        <DT><H3 ADD_DATE="" LAST_MODIFIED="">SUBDIR</H3>\n        <DL><p>\n'
 link_template='            <DT><A HREF="URL" ADD_DATE="" LAST_MODIFIED="" ICON_URI="">TITLE</A>\n'
-bookmark_file='awesome-saltstack-bookmarks.html'
+bookmark_file='awesome-saltproject-bookmarks.html'
 
 ###
 ### RUN THROUGH README.md
